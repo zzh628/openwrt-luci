@@ -1,43 +1,36 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"PO-Revision-Date: 2020-06-09 21:41+0000\n"
-"Last-Translator: Miloš Leškanič <leskanic@gmail.com>\n"
-"Language-Team: Slovak <https://hosted.weblate.org/projects/openwrt/luci/sk/"
-">\n"
-"Language: sk\n"
-"MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.1-dev\n"
-
-msgid "%.1f dB"
-msgstr "%.1f dB"
 
 msgid "%s is untagged in multiple VLANs!"
-msgstr "%s nie je označený vo viacerých sieťach VLAN!"
+msgstr ""
 
 msgid "(%d minute window, %d second interval)"
-msgstr "(%d minútové okno, %d sekundový interval)"
+msgstr ""
 
 msgid "(%s available)"
 msgstr ""
 
 msgid "(empty)"
-msgstr "(prázdne)"
+msgstr ""
 
 msgid "(no interfaces attached)"
-msgstr "(žiadne pričlenené zariadenia)"
+msgstr ""
 
 msgid "-- Additional Field --"
-msgstr "-- Dodatočné pole --"
+msgstr ""
 
 msgid "-- Please choose --"
-msgstr "-- Prosím, vyberte --"
+msgstr ""
 
 msgid "-- custom --"
-msgstr "-- vlastné --"
+msgstr ""
 
 msgid "-- match by device --"
 msgstr ""
@@ -48,14 +41,11 @@ msgstr ""
 msgid "-- match by uuid --"
 msgstr ""
 
-msgid "-- please select --"
-msgstr "-- Prosím, vyberte --"
-
 msgid "1 Minute Load:"
-msgstr "1 minúta zaťaženia:"
+msgstr ""
 
 msgid "15 Minute Load:"
-msgstr "15 minút zaťaženia:"
+msgstr ""
 
 msgid "4-character hexadecimal ID"
 msgstr ""
@@ -64,7 +54,7 @@ msgid "464XLAT (CLAT)"
 msgstr ""
 
 msgid "5 Minute Load:"
-msgstr "5 minút zaťaženia:"
+msgstr ""
 
 msgid "6-octet identifier as a hex string - no colons"
 msgstr ""
@@ -88,13 +78,13 @@ msgid "802.11w retry timeout"
 msgstr ""
 
 msgid "<abbr title=\"Basic Service Set Identifier\">BSSID</abbr>"
-msgstr "<abbr title=\"Basic Service Set Identifier\">BSSID</abbr>"
+msgstr ""
 
 msgid "<abbr title=\"Domain Name System\">DNS</abbr> query port"
 msgstr ""
 
 msgid "<abbr title=\"Domain Name System\">DNS</abbr> server port"
-msgstr "Port <abbr title=\"Domain Name System\">DNS</abbr> servera"
+msgstr ""
 
 msgid ""
 "<abbr title=\"Domain Name System\">DNS</abbr> servers will be queried in the "
@@ -102,7 +92,7 @@ msgid ""
 msgstr ""
 
 msgid "<abbr title=\"Extended Service Set Identifier\">ESSID</abbr>"
-msgstr "<abbr title=\"Extended Service Set Identifier\">ESSID</abbr>"
+msgstr ""
 
 msgid "<abbr title=\"Internet Protocol Version 4\">IPv4</abbr>-Address"
 msgstr ""
@@ -125,23 +115,18 @@ msgid "<abbr title=\"Internet Protocol Version 6\">IPv6</abbr>-Suffix (hex)"
 msgstr ""
 
 msgid "<abbr title=\"Light Emitting Diode\">LED</abbr> Configuration"
-msgstr "Konfigurácia <abbr title=\"Light Emitting Diode\">LED</abbr>"
+msgstr ""
 
 msgid "<abbr title=\"Light Emitting Diode\">LED</abbr> Name"
-msgstr "Názov <abbr title=\"Light Emitting Diode\">LED</abbr>"
+msgstr ""
 
 msgid "<abbr title=\"Media Access Control\">MAC</abbr>-Address"
 msgstr ""
-
-msgid "<abbr title=\"The DHCP Unique Identifier\">DUID</abbr>"
-msgstr "<abbr title=\"The DHCP Unique Identifier\">DUID</abbr>"
 
 msgid ""
 "<abbr title=\"maximal\">Max.</abbr> <abbr title=\"Dynamic Host Configuration "
 "Protocol\">DHCP</abbr> leases"
 msgstr ""
-"<abbr title=\"maximalny\">Max. počet</abbr> <abbr title=\"Dynamic Host "
-"Configuration Protocol\">DHCP</abbr> prenájmov"
 
 msgid ""
 "<abbr title=\"maximal\">Max.</abbr> <abbr title=\"Extension Mechanisms for "
@@ -151,36 +136,40 @@ msgstr ""
 msgid "<abbr title=\"maximal\">Max.</abbr> concurrent queries"
 msgstr ""
 
+msgid "<abbr title='Pairwise: %s / Group: %s'>%s - %s</abbr>"
+msgstr ""
+
 msgid ""
 "<br/>Note: you need to manually restart the cron service if the crontab file "
 "was empty before editing."
 msgstr ""
-"<br/>Poznámka: ak bol súbor crontab prázdny pred úpravou, musíte manuálne "
-"reštartovať službu cron."
 
 msgid "A43C + J43 + A43"
-msgstr "A43C + J43 + A43"
+msgstr ""
 
 msgid "A43C + J43 + A43 + V43"
-msgstr "A43C + J43 + A43 + V43"
+msgstr ""
 
 msgid "ADSL"
-msgstr "ADSL"
+msgstr ""
+
+msgid "AICCU (SIXXS)"
+msgstr ""
 
 msgid "ANSI T1.413"
-msgstr "ANSI T1.413"
+msgstr ""
 
 msgid "APN"
-msgstr "APN"
+msgstr ""
 
 msgid "ARP retry threshold"
 msgstr ""
 
 msgid "ATM (Asynchronous Transfer Mode)"
-msgstr "ATM (Asynchrónny režim prenosu)"
+msgstr ""
 
 msgid "ATM Bridges"
-msgstr "Mosty ATM"
+msgstr ""
 
 msgid "ATM Virtual Channel Identifier (VCI)"
 msgstr ""
@@ -195,19 +184,28 @@ msgid ""
 msgstr ""
 
 msgid "ATM device number"
-msgstr "Číslo zariadenia ATM"
+msgstr ""
 
 msgid "ATU-C System Vendor ID"
+msgstr ""
+
+msgid "AYIYA"
 msgstr ""
 
 msgid "Access Concentrator"
 msgstr ""
 
 msgid "Access Point"
-msgstr "Prístupový bod"
+msgstr ""
+
+msgid "Action"
+msgstr ""
 
 msgid "Actions"
-msgstr "Akcie"
+msgstr ""
+
+msgid "Activate this network"
+msgstr ""
 
 msgid "Active <abbr title=\"Internet Protocol Version 4\">IPv4</abbr>-Routes"
 msgstr ""
@@ -216,58 +214,49 @@ msgid "Active <abbr title=\"Internet Protocol Version 6\">IPv6</abbr>-Routes"
 msgstr ""
 
 msgid "Active Connections"
-msgstr "Aktívne pripojenia"
+msgstr ""
 
 msgid "Active DHCP Leases"
-msgstr "Aktívne DHCP prenájmy"
+msgstr ""
 
 msgid "Active DHCPv6 Leases"
-msgstr "Aktívne DHCPv6 prenájmy"
+msgstr ""
 
 msgid "Ad-Hoc"
-msgstr "Ad-Hoc"
+msgstr ""
 
 msgid "Add"
-msgstr "Pridať"
+msgstr ""
 
 msgid "Add local domain suffix to names served from hosts files"
 msgstr ""
 
 msgid "Add new interface..."
-msgstr "Pridať nové rozhranie..."
+msgstr ""
 
 msgid "Additional Hosts files"
 msgstr ""
 
 msgid "Additional servers file"
-msgstr "Súbor s dodatočnými servermi"
+msgstr ""
 
 msgid "Address"
-msgstr "Adresa"
+msgstr ""
 
 msgid "Address to access local relay bridge"
 msgstr ""
 
 msgid "Administration"
-msgstr "Administrácia"
+msgstr ""
 
 msgid "Advanced Settings"
-msgstr "Pokročilé nastavenia"
+msgstr ""
 
 msgid "Aggregate Transmit Power(ACTATP)"
 msgstr ""
 
 msgid "Alert"
-msgstr "Výstraha"
-
-msgid "Alias Interface"
-msgstr "Prezývka rozhrania"
-
-msgid "Alias of \"%s\""
-msgstr "Prezývka pre „%s“"
-
-msgid "All Servers"
-msgstr "Všetky servery"
+msgstr ""
 
 msgid ""
 "Allocate IP addresses sequentially, starting from the lowest available "
@@ -280,17 +269,11 @@ msgstr ""
 msgid "Allow <abbr title=\"Secure Shell\">SSH</abbr> password authentication"
 msgstr ""
 
-msgid "Allow AP mode to disconnect STAs based on low ACK condition"
+msgid "Allow all except listed"
 msgstr ""
 
-msgid "Allow all except listed"
-msgstr "Povoliť všetky mimo zoznamu"
-
-msgid "Allow legacy 802.11b rates"
-msgstr "Umožniť zastaralé rýchlosti 802.11b"
-
 msgid "Allow listed only"
-msgstr "Povoliť iba zo zoznamu"
+msgstr ""
 
 msgid "Allow localhost"
 msgstr ""
@@ -309,17 +292,15 @@ msgid ""
 msgstr ""
 
 msgid "Allowed IPs"
-msgstr "Povolené IP adresy"
-
-msgid "Always announce default router"
-msgstr "Vždy oznámiť predvolený smerovač"
+msgstr ""
 
 msgid ""
-"Always use 40MHz channels even if the secondary channel overlaps. Using this "
-"option does not comply with IEEE 802.11n-2009!"
+"Also see <a href=\"https://www.sixxs.net/faq/connectivity/?faq=comparison"
+"\">Tunneling Comparison</a> on SIXXS"
 msgstr ""
-"Vždy použiť kanály so šírkou 40MHz, aj keď sa druhý kanál prekrýva. Použitie "
-"tejto voľby je v rozpore so štandardom IEEE 802.11n-2009!"
+
+msgid "Always announce default router"
+msgstr ""
 
 msgid "Annex"
 msgstr ""
@@ -376,7 +357,7 @@ msgid "Announced DNS servers"
 msgstr ""
 
 msgid "Anonymous Identity"
-msgstr "Anonymná identita"
+msgstr ""
 
 msgid "Anonymous Mount"
 msgstr ""
@@ -394,16 +375,13 @@ msgid "Antenna Configuration"
 msgstr ""
 
 msgid "Any zone"
-msgstr "Akákoľvek zóna"
-
-msgid "Apply request failed with status <code>%h</code>"
 msgstr ""
 
-msgid "Apply unchecked"
-msgstr "Použiť bez kontroly"
+msgid "Apply"
+msgstr ""
 
-msgid "Architecture"
-msgstr "Architektúra"
+msgid "Applying changes"
+msgstr ""
 
 msgid ""
 "Assign a part of given length of every public IPv6-prefix to this interface"
@@ -417,28 +395,25 @@ msgid ""
 msgstr ""
 
 msgid "Associated Stations"
-msgstr "Priradené stanice"
-
-msgid "Associations"
-msgstr "Priradenia"
+msgstr ""
 
 msgid "Auth Group"
 msgstr ""
 
 msgid "Authentication"
-msgstr "Overenie totožnosti"
+msgstr ""
 
 msgid "Authentication Type"
-msgstr "Typ overenia totožnosti"
+msgstr ""
 
 msgid "Authoritative"
 msgstr ""
 
 msgid "Authorization Required"
-msgstr "Vyžaduje sa overenie totožnosti"
+msgstr ""
 
 msgid "Auto Refresh"
-msgstr "Automatická obnova"
+msgstr ""
 
 msgid "Automatic"
 msgstr ""
@@ -462,34 +437,34 @@ msgid "Automount Swap"
 msgstr ""
 
 msgid "Available"
-msgstr "Dostupné"
+msgstr ""
 
 msgid "Available packages"
 msgstr ""
 
 msgid "Average:"
-msgstr "Priemer:"
+msgstr ""
 
 msgid "B43 + B43C"
-msgstr "B43 + B43C"
+msgstr ""
 
 msgid "B43 + B43C + V43"
-msgstr "B43 + B43C + V43"
+msgstr ""
 
 msgid "BR / DMR / AFTR"
-msgstr "BR / DMR / AFTR"
+msgstr ""
 
 msgid "BSSID"
-msgstr "BSSID"
+msgstr ""
 
 msgid "Back"
 msgstr ""
 
 msgid "Back to Overview"
-msgstr "Späť na prehľad"
+msgstr ""
 
 msgid "Back to configuration"
-msgstr "Späť na konfiguráciu"
+msgstr ""
 
 msgid "Back to overview"
 msgstr ""
@@ -497,11 +472,11 @@ msgstr ""
 msgid "Back to scan results"
 msgstr ""
 
-msgid "Backup"
-msgstr "Záloha"
-
 msgid "Backup / Flash Firmware"
-msgstr "Zálohovať / nahrať firmvér"
+msgstr ""
+
+msgid "Backup / Restore"
+msgstr ""
 
 msgid "Backup file list"
 msgstr ""
@@ -510,9 +485,9 @@ msgid "Bad address specified!"
 msgstr ""
 
 msgid "Band"
-msgstr "Pásmo"
+msgstr ""
 
-msgid "Beacon Interval"
+msgid "Behind NAT"
 msgstr ""
 
 msgid ""
@@ -522,7 +497,7 @@ msgid ""
 msgstr ""
 
 msgid "Bind interface"
-msgstr "Previazať rozhranie"
+msgstr ""
 
 msgid "Bind only to specific interfaces rather than wildcard address."
 msgstr ""
@@ -531,22 +506,22 @@ msgid "Bind the tunnel to this interface (optional)."
 msgstr ""
 
 msgid "Bitrate"
-msgstr "Bitová rýchlosť"
+msgstr ""
 
 msgid "Bogus NX Domain Override"
 msgstr ""
 
 msgid "Bridge"
-msgstr "Premostenie"
+msgstr ""
 
 msgid "Bridge interfaces"
-msgstr "Premostiť rozhrania"
+msgstr ""
 
 msgid "Bridge unit number"
 msgstr ""
 
 msgid "Bring up on boot"
-msgstr "Zaviesť po spustení"
+msgstr ""
 
 msgid "Broadcom 802.11%s Wireless Controller"
 msgstr ""
@@ -555,55 +530,47 @@ msgid "Broadcom BCM%04x 802.11 Wireless Controller"
 msgstr ""
 
 msgid "Buffered"
-msgstr "V zásobníku"
+msgstr ""
 
 msgid ""
 "Build/distribution specific feed definitions. This file will NOT be "
 "preserved in any sysupgrade."
 msgstr ""
 
+msgid "Buttons"
+msgstr ""
+
 msgid "CA certificate; if empty it will be saved after the first connection."
 msgstr ""
 
 msgid "CPU usage (%)"
-msgstr "Využitie CPU (%)"
-
-msgid "Call failed"
-msgstr "Volanie zlyhalo"
+msgstr ""
 
 msgid "Cancel"
-msgstr "Zrušiť"
+msgstr ""
 
 msgid "Category"
-msgstr "Kategória"
+msgstr ""
 
 msgid "Chain"
 msgstr ""
 
 msgid "Changes"
-msgstr "Zmeny"
+msgstr ""
 
 msgid "Changes applied."
 msgstr ""
 
-msgid "Changes have been reverted."
-msgstr "Zmeny boli vrátené späť."
-
 msgid "Changes the administrator password for accessing the device"
-msgstr "Zmení heslo správcu pre prístup k zariadeniu"
+msgstr ""
 
 msgid "Channel"
-msgstr "Kanál"
-
-msgid ""
-"Channel %d is not available in the %s regulatory domain and has been auto-"
-"adjusted to %d."
 msgstr ""
 
 msgid "Check"
 msgstr ""
 
-msgid "Check filesystems before mount"
+msgid "Check fileystems before mount"
 msgstr ""
 
 msgid "Check this option to delete the existing networks from this radio."
@@ -632,13 +599,12 @@ msgstr ""
 
 msgid ""
 "Click \"Generate archive\" to download a tar archive of the current "
-"configuration files."
+"configuration files. To reset the firmware to its initial state, click "
+"\"Perform reset\" (only possible with squashfs images)."
 msgstr ""
-"Kliknutím na „Generovať archív“ stiahnete archív tar s aktuálnymi "
-"konfiguračnými súbormi."
 
 msgid "Client"
-msgstr "Klient"
+msgstr ""
 
 msgid "Client ID to send when requesting DHCP"
 msgstr ""
@@ -649,68 +615,49 @@ msgid ""
 msgstr ""
 
 msgid "Close list..."
-msgstr "Zavrieť zoznam..."
+msgstr ""
 
 msgid "Collecting data..."
-msgstr "Zbieram dáta..."
+msgstr ""
 
 msgid "Command"
-msgstr "Príkaz"
+msgstr ""
 
 msgid "Common Configuration"
 msgstr ""
 
-msgid ""
-"Complicates key reinstallation attacks on the client side by disabling "
-"retransmission of EAPOL-Key frames that are used to install keys. This "
-"workaround might cause interoperability issues and reduced robustness of key "
-"negotiation especially in environments with heavy traffic load."
+msgid "Configuration"
 msgstr ""
 
-msgid "Configuration"
-msgstr "Konfigurácia"
-
-msgid "Configuration failed"
-msgstr "Konfigurácia zlyhala"
+msgid "Configuration applied."
+msgstr ""
 
 msgid "Configuration files will be kept."
 msgstr ""
 
-msgid "Configuration has been applied."
-msgstr ""
-
-msgid "Configuration has been rolled back!"
-msgstr ""
-
 msgid "Confirmation"
-msgstr "Potvrdenie"
+msgstr ""
 
 msgid "Connect"
 msgstr ""
 
 msgid "Connected"
-msgstr "Pripojené"
+msgstr ""
 
 msgid "Connection Limit"
 msgstr ""
 
-msgid "Connection attempt failed"
-msgstr "Pokus o pripojenie zlyhal"
+msgid "Connection to server fails when TLS cannot be used"
+msgstr ""
 
 msgid "Connections"
-msgstr "Pripojenia"
-
-msgid ""
-"Could not regain access to the device after applying the configuration "
-"changes. You might need to reconnect if you modified network related "
-"settings such as the IP address or wireless security credentials."
 msgstr ""
 
 msgid "Country"
-msgstr "Krajina"
+msgstr ""
 
 msgid "Country Code"
-msgstr "Kód krajiny"
+msgstr ""
 
 msgid "Cover the following interface"
 msgstr ""
@@ -719,7 +666,7 @@ msgid "Cover the following interfaces"
 msgstr ""
 
 msgid "Create / Assign firewall-zone"
-msgstr "Vytvoriť / priradiť zónu brány firewall"
+msgstr ""
 
 msgid "Create Interface"
 msgstr ""
@@ -731,10 +678,10 @@ msgid "Critical"
 msgstr ""
 
 msgid "Cron Log Level"
-msgstr "Úroveň Cron záznamu"
+msgstr ""
 
 msgid "Custom Interface"
-msgstr "Vlastné rozhranie"
+msgstr ""
 
 msgid "Custom delegated IPv6-prefix"
 msgstr ""
@@ -748,52 +695,48 @@ msgid "Custom feeds"
 msgstr ""
 
 msgid ""
-"Custom files (certificates, scripts) may remain on the system. To prevent "
-"this, perform a factory-reset first."
-msgstr ""
-"V systéme môžu zostať Vaše vlastné súbory (certifikáty, skripty). Aby ste "
-"tomu zabránili, vykonajte najskôr obnovu na továrenské nastavenia stlačením "
-"tlačidla Vykonať obnovenie."
-
-msgid ""
 "Customizes the behaviour of the device <abbr title=\"Light Emitting Diode"
 "\">LED</abbr>s if possible."
 msgstr ""
-"Ak je to možné, prispôsobte správanie <abbr title=\"Light Emitting Diode"
-"\">LED</abbr> diód zariadenia."
+
+msgid "DHCP Leases"
+msgstr ""
 
 msgid "DHCP Server"
-msgstr "Server DHCP"
+msgstr ""
 
 msgid "DHCP and DNS"
-msgstr "DHCP a DNS"
+msgstr ""
 
 msgid "DHCP client"
-msgstr "Klient DHCP"
+msgstr ""
 
 msgid "DHCP-Options"
 msgstr ""
 
+msgid "DHCPv6 Leases"
+msgstr ""
+
 msgid "DHCPv6 client"
-msgstr "Klient DHCPv6"
+msgstr ""
 
 msgid "DHCPv6-Mode"
 msgstr ""
 
 msgid "DHCPv6-Service"
-msgstr "Služba DHCPv6"
+msgstr ""
 
 msgid "DNS"
-msgstr "DNS"
+msgstr ""
 
 msgid "DNS forwardings"
-msgstr "Presmerovania DNS"
+msgstr ""
 
 msgid "DNS-Label / FQDN"
 msgstr ""
 
 msgid "DNSSEC"
-msgstr "DNSSEC"
+msgstr ""
 
 msgid "DNSSEC check unsigned"
 msgstr ""
@@ -805,22 +748,19 @@ msgid "DS-Lite AFTR address"
 msgstr ""
 
 msgid "DSL"
-msgstr "DSL"
+msgstr ""
 
 msgid "DSL Status"
-msgstr "Stav DSL"
+msgstr ""
 
 msgid "DSL line mode"
-msgstr "Režim linky DSL"
-
-msgid "DTIM Interval"
-msgstr "Interval DTIM"
+msgstr ""
 
 msgid "DUID"
-msgstr "DUID"
+msgstr ""
 
 msgid "Data Rate"
-msgstr "Prenosová rýchlosť"
+msgstr ""
 
 msgid "Debug"
 msgstr ""
@@ -828,17 +768,17 @@ msgstr ""
 msgid "Default %d"
 msgstr ""
 
-msgid "Default Route"
-msgstr "Predvolená trasa"
-
 msgid "Default gateway"
-msgstr "Predvolená brána"
+msgstr ""
 
 msgid "Default is stateless + stateful"
 msgstr ""
 
+msgid "Default route"
+msgstr ""
+
 msgid "Default state"
-msgstr "Predvolený stav"
+msgstr ""
 
 msgid "Define a name for this network."
 msgstr ""
@@ -850,50 +790,43 @@ msgid ""
 msgstr ""
 
 msgid "Delete"
-msgstr "Odstrániť"
+msgstr ""
 
 msgid "Delete this network"
-msgstr "Odstrániť sieť"
-
-msgid "Delivery Traffic Indication Message Interval"
 msgstr ""
 
 msgid "Description"
-msgstr "Popis"
+msgstr ""
 
 msgid "Design"
-msgstr "Vzhľad"
+msgstr ""
 
 msgid "Destination"
-msgstr "Cieľ"
+msgstr ""
 
 msgid "Device"
-msgstr "Zariadenie"
+msgstr ""
 
 msgid "Device Configuration"
-msgstr "Konfigurácia zariadenia"
+msgstr ""
 
 msgid "Device is rebooting..."
 msgstr ""
 
-msgid "Device unreachable!"
-msgstr "Zariadenie neprístupné!"
-
-msgid "Device unreachable! Still waiting for device..."
+msgid "Device unreachable"
 msgstr ""
-"Zariadenie nie je dosiahnuteľné! Pokračuje sa v čakaní na zariadenie..."
 
 msgid "Diagnostics"
-msgstr "Diagnostika"
+msgstr ""
 
 msgid "Dial number"
 msgstr ""
 
 msgid "Directory"
-msgstr "Adresár"
+msgstr ""
 
 msgid "Disable"
-msgstr "Zakázať"
+msgstr ""
 
 msgid ""
 "Disable <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</abbr> for "
@@ -904,37 +837,25 @@ msgid "Disable DNS setup"
 msgstr ""
 
 msgid "Disable Encryption"
-msgstr "Zakázať šifrovanie"
-
-msgid "Disable this network"
-msgstr "Zakázať túto sieť"
-
-msgid "Disabled"
-msgstr "Zakázané"
-
-msgid "Disabled (default)"
 msgstr ""
 
-msgid "Disassociate On Low Acknowledgement"
+msgid "Disabled"
+msgstr ""
+
+msgid "Disabled (default)"
 msgstr ""
 
 msgid "Discard upstream RFC1918 responses"
 msgstr ""
 
-msgid "Disconnection attempt failed"
-msgstr "Pokus o odpojenie zlyhal"
-
-msgid "Dismiss"
-msgstr "Zamietnuť"
-
 msgid "Displaying only packages containing"
 msgstr ""
 
 msgid "Distance Optimization"
-msgstr "Optimalizácia vzdialenosti"
+msgstr ""
 
 msgid "Distance to farthest network member in meters."
-msgstr "Vzdialenosť v metroch k najvzdialenejšiemu členovi siete."
+msgstr ""
 
 msgid "Distribution feeds"
 msgstr ""
@@ -959,10 +880,10 @@ msgid "Do not forward reverse lookups for local networks"
 msgstr ""
 
 msgid "Domain required"
-msgstr "Vyžaduje sa doména"
+msgstr ""
 
 msgid "Domain whitelist"
-msgstr "Biela listina domén"
+msgstr ""
 
 msgid "Don't Fragment"
 msgstr ""
@@ -972,16 +893,10 @@ msgid ""
 "<abbr title=\"Domain Name System\">DNS</abbr>-Name"
 msgstr ""
 
-msgid "Down"
-msgstr ""
-
 msgid "Download and install package"
 msgstr ""
 
 msgid "Download backup"
-msgstr "Stiahnuť zálohu"
-
-msgid "Downstream SNR offset"
 msgstr ""
 
 msgid "Dropbear Instance"
@@ -999,7 +914,7 @@ msgid "Dynamic <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</abbr>"
 msgstr ""
 
 msgid "Dynamic tunnel"
-msgstr "Dynamický tunel"
+msgstr ""
 
 msgid ""
 "Dynamically allocate DHCP addresses for clients. If disabled, only clients "
@@ -1007,13 +922,13 @@ msgid ""
 msgstr ""
 
 msgid "EA-bits length"
-msgstr "Dĺžka bitov EA"
+msgstr ""
 
 msgid "EAP-Method"
-msgstr "Spôsob EAP"
+msgstr ""
 
 msgid "Edit"
-msgstr "Upraviť"
+msgstr ""
 
 msgid ""
 "Edit the raw configuration data above to fix any error and hit \"Save\" to "
@@ -1024,7 +939,7 @@ msgid "Edit this interface"
 msgstr ""
 
 msgid "Edit this network"
-msgstr "Upraviť túto sieť"
+msgstr ""
 
 msgid "Emergency"
 msgstr ""
@@ -1032,15 +947,8 @@ msgstr ""
 msgid "Enable"
 msgstr ""
 
-msgid ""
-"Enable <abbr title=\"Internet Group Management Protocol\">IGMP</abbr> "
-"snooping"
-msgstr ""
-"Povoliť <abbr title=\"Internet Group Management Protocol\">IGMP</abbr> "
-"špehovanie"
-
 msgid "Enable <abbr title=\"Spanning Tree Protocol\">STP</abbr>"
-msgstr "Povoliť <abbr title=\"Spanning Tree Protocol\">STP</abbr>"
+msgstr ""
 
 msgid "Enable HE.net dynamic endpoint update"
 msgstr ""
@@ -1055,21 +963,18 @@ msgid "Enable Jumbo Frame passthrough"
 msgstr ""
 
 msgid "Enable NTP client"
-msgstr "Povoliť klienta NTP"
+msgstr ""
 
 msgid "Enable Single DES"
 msgstr ""
 
 msgid "Enable TFTP server"
-msgstr "Povoliť server TFTP"
+msgstr ""
 
 msgid "Enable VLAN functionality"
 msgstr ""
 
 msgid "Enable WPS pushbutton, requires WPA(2)-PSK"
-msgstr ""
-
-msgid "Enable key reinstallation (KRACK) countermeasures"
 msgstr ""
 
 msgid "Enable learning and aging"
@@ -1079,7 +984,7 @@ msgid "Enable mirroring of incoming packets"
 msgstr ""
 
 msgid "Enable mirroring of outgoing packets"
-msgstr "Povoliť zrkadlenie odchádzajúcich paketov"
+msgstr ""
 
 msgid "Enable the DF (Don't Fragment) flag of the encapsulating packets."
 msgstr ""
@@ -1087,19 +992,13 @@ msgstr ""
 msgid "Enable this mount"
 msgstr ""
 
-msgid "Enable this network"
-msgstr "Povoliť túto sieť"
-
 msgid "Enable this swap"
 msgstr ""
 
 msgid "Enable/Disable"
-msgstr "Zakázať/Povoliť"
+msgstr ""
 
 msgid "Enabled"
-msgstr "Povolené"
-
-msgid "Enables IGMP snooping on this bridge"
 msgstr ""
 
 msgid ""
@@ -1114,7 +1013,7 @@ msgid "Encapsulation mode"
 msgstr ""
 
 msgid "Encryption"
-msgstr "Šifrovanie"
+msgstr ""
 
 msgid "Endpoint Host"
 msgstr ""
@@ -1122,23 +1021,17 @@ msgstr ""
 msgid "Endpoint Port"
 msgstr ""
 
-msgid "Enter custom value"
-msgstr ""
-
-msgid "Enter custom values"
-msgstr ""
-
 msgid "Erasing..."
-msgstr "Vymazáva sa..."
+msgstr ""
 
 msgid "Error"
-msgstr "Chyba"
+msgstr ""
 
 msgid "Errored seconds (ES)"
 msgstr ""
 
 msgid "Ethernet Adapter"
-msgstr "Adaptér siete Ethernet"
+msgstr ""
 
 msgid "Ethernet Switch"
 msgstr ""
@@ -1166,39 +1059,25 @@ msgid "External R1 Key Holder List"
 msgstr ""
 
 msgid "External system log server"
-msgstr "Externý server systémového denníka"
+msgstr ""
 
 msgid "External system log server port"
-msgstr "Port externého servera systémového denníka"
+msgstr ""
 
 msgid "External system log server protocol"
-msgstr "Protokol externého servera systémového denníka"
+msgstr ""
 
 msgid "Extra SSH command options"
 msgstr ""
 
-msgid "FT over DS"
-msgstr ""
-
-msgid "FT over the Air"
-msgstr ""
-
-msgid "FT protocol"
-msgstr ""
-
-msgid "Failed to confirm apply within %ds, waiting for rollback…"
-msgstr ""
-"Zlyhalo potvrdenie aplikovania nastavení v čase %ds, čaká sa na návrat "
-"konfigurácie…"
-
 msgid "File"
-msgstr "Súbor"
+msgstr ""
 
 msgid "Filename of the boot image advertised to clients"
 msgstr ""
 
 msgid "Filesystem"
-msgstr "Súborový systém"
+msgstr ""
 
 msgid "Filter"
 msgstr ""
@@ -1209,16 +1088,13 @@ msgstr ""
 msgid "Filter useless"
 msgstr ""
 
-msgid "Finalizing failed"
-msgstr "Dokončovanie zlyhalo"
-
 msgid ""
 "Find all currently attached filesystems and swap and replace configuration "
 "with defaults based on what was detected"
 msgstr ""
 
 msgid "Find and join network"
-msgstr "Nájsť a pripojiť sa k sieti"
+msgstr ""
 
 msgid "Find package"
 msgstr ""
@@ -1227,22 +1103,22 @@ msgid "Finish"
 msgstr ""
 
 msgid "Firewall"
-msgstr "Brána Firewall"
+msgstr ""
 
 msgid "Firewall Mark"
 msgstr ""
 
 msgid "Firewall Settings"
-msgstr "Nastavenia brány Firewall"
+msgstr ""
 
 msgid "Firewall Status"
-msgstr "Stav brány Firewall"
+msgstr ""
 
 msgid "Firmware File"
-msgstr "Súbor firmvéru"
+msgstr ""
 
 msgid "Firmware Version"
-msgstr "Verzia firmvéru"
+msgstr ""
 
 msgid "Fixed source port for outbound DNS queries"
 msgstr ""
@@ -1251,10 +1127,10 @@ msgid "Flash Firmware"
 msgstr ""
 
 msgid "Flash image..."
-msgstr "Nahrať obraz..."
+msgstr ""
 
 msgid "Flash new firmware image"
-msgstr "Nahrať obraz s novým firmvérom"
+msgstr ""
 
 msgid "Flash operations"
 msgstr ""
@@ -1263,25 +1139,22 @@ msgid "Flashing..."
 msgstr ""
 
 msgid "Force"
-msgstr "Vynútiť"
-
-msgid "Force 40MHz mode"
-msgstr "Vynútiť 40MHz režim"
+msgstr ""
 
 msgid "Force CCMP (AES)"
 msgstr ""
 
 msgid "Force DHCP on this network even if another server is detected."
-msgstr "Vynútiť server DHCP pre túto sieť, aj keď je rozpoznaný iný server."
+msgstr ""
 
 msgid "Force TKIP"
 msgstr ""
 
 msgid "Force TKIP and CCMP (AES)"
-msgstr "Vynútiť TKIP a CCMP (AES)"
+msgstr ""
 
 msgid "Force link"
-msgstr "Vynútené spojenie"
+msgstr ""
 
 msgid "Force use of NAT-T"
 msgstr ""
@@ -1298,61 +1171,52 @@ msgstr ""
 msgid "Forward broadcast traffic"
 msgstr ""
 
-msgid "Forward mesh peer traffic"
+msgid "Forwarding mode"
 msgstr ""
 
-msgid "Forwarding mode"
-msgstr "Režim presmerovania"
-
 msgid "Fragmentation Threshold"
-msgstr "Prah fragmentácie"
+msgstr ""
 
 msgid "Frame Bursting"
 msgstr ""
 
 msgid "Free"
-msgstr "Voľná"
+msgstr ""
 
 msgid "Free space"
 msgstr ""
 
 msgid ""
 "Further information about WireGuard interfaces and peers at <a href=\"http://"
-"wireguard.com\">wireguard.com</a>."
+"wireguard.io\">wireguard.io</a>."
 msgstr ""
 
 msgid "GHz"
-msgstr "GHz"
+msgstr ""
 
 msgid "GPRS only"
-msgstr "Iba GPRS"
+msgstr ""
 
 msgid "Gateway"
-msgstr "Brána"
-
-msgid "Gateway address is invalid"
 msgstr ""
 
 msgid "Gateway ports"
 msgstr ""
 
 msgid "General Settings"
-msgstr "Všeobecné nastavenia"
+msgstr ""
 
 msgid "General Setup"
-msgstr "Všeobecné nastavenie"
+msgstr ""
 
 msgid "General options for opkg"
 msgstr ""
 
 msgid "Generate Config"
-msgstr "Vygenerovať nastavenie"
-
-msgid "Generate PMK locally"
 msgstr ""
 
 msgid "Generate archive"
-msgstr "Generovať archív"
+msgstr ""
 
 msgid "Generic 802.11%s Wireless Controller"
 msgstr ""
@@ -1361,22 +1225,22 @@ msgid "Given password confirmation did not match, password not changed!"
 msgstr ""
 
 msgid "Global Settings"
-msgstr "Globálne nastavenia"
+msgstr ""
 
 msgid "Global network options"
-msgstr "Globálne voľby siete"
+msgstr ""
 
 msgid "Go to password configuration..."
-msgstr "Prejsť na konfiguráciu hesla..."
+msgstr ""
 
 msgid "Go to relevant configuration page"
-msgstr "Prejsť na príslušnú stránku konfigurácie"
+msgstr ""
 
 msgid "Group Password"
-msgstr "Heslo skupiny"
+msgstr ""
 
 msgid "Guest"
-msgstr "Hosť"
+msgstr ""
 
 msgid "HE.net password"
 msgstr ""
@@ -1387,22 +1251,29 @@ msgstr ""
 msgid "HT mode (802.11n)"
 msgstr ""
 
+msgid "Handler"
+msgstr ""
+
 msgid "Hang Up"
-msgstr "Zložiť"
+msgstr ""
 
 msgid "Header Error Code Errors (HEC)"
+msgstr ""
+
+msgid "Heartbeat"
 msgstr ""
 
 msgid ""
 "Here you can configure the basic aspects of your device like its hostname or "
 "the timezone."
 msgstr ""
-"Tu môžete nastaviť základné parametre vášho zariadenia, ako je názov "
-"hostiteľa alebo časová zóna."
 
 msgid ""
 "Here you can paste public SSH-Keys (one per line) for SSH public-key "
 "authentication."
+msgstr ""
+
+msgid "Hermes 802.11b Wireless Controller"
 msgstr ""
 
 msgid "Hide <abbr title=\"Extended Service Set Identifier\">ESSID</abbr>"
@@ -1412,7 +1283,7 @@ msgid "Host"
 msgstr ""
 
 msgid "Host entries"
-msgstr "Záznamy hostiteľov"
+msgstr ""
 
 msgid "Host expiry timeout"
 msgstr ""
@@ -1420,50 +1291,38 @@ msgstr ""
 msgid "Host-<abbr title=\"Internet Protocol Address\">IP</abbr> or Network"
 msgstr ""
 
-msgid "Host-Uniq tag content"
+msgid "Hostname"
 msgstr ""
 
-msgid "Hostname"
-msgstr "Názov hostiteľa"
-
 msgid "Hostname to send when requesting DHCP"
-msgstr "Názov hostiteľa na odoslanie pri požadovaní servera DHCP"
+msgstr ""
 
 msgid "Hostnames"
-msgstr "Názvy hostiteľov"
+msgstr ""
 
 msgid "Hybrid"
 msgstr ""
 
 msgid "IKE DH Group"
-msgstr "Skupina IKE DH"
-
-msgid "IP Addresses"
-msgstr "Adresy IP"
-
-msgid "IP Protocol"
-msgstr "Protokol IP"
-
-msgid "IP address"
-msgstr "Adresa IP"
-
-msgid "IP address in invalid"
 msgstr ""
 
-msgid "IP address is missing"
-msgstr "Chýba adresa IP"
+msgid "IP Addresses"
+msgstr ""
+
+msgid "IP address"
+msgstr ""
 
 msgid "IPv4"
-msgstr "IPv4"
+msgstr ""
 
 msgid "IPv4 Firewall"
 msgstr ""
 
-msgid "IPv4 Upstream"
+msgid "IPv4 WAN Status"
 msgstr ""
 
 msgid "IPv4 address"
-msgstr "Adresa IPv4"
+msgstr ""
 
 msgid "IPv4 and IPv6"
 msgstr ""
@@ -1475,13 +1334,13 @@ msgid "IPv4 broadcast"
 msgstr ""
 
 msgid "IPv4 gateway"
-msgstr "Brána IPv4"
+msgstr ""
 
 msgid "IPv4 netmask"
 msgstr ""
 
 msgid "IPv4 only"
-msgstr "Iba IPv4"
+msgstr ""
 
 msgid "IPv4 prefix"
 msgstr ""
@@ -1489,23 +1348,20 @@ msgstr ""
 msgid "IPv4 prefix length"
 msgstr ""
 
-msgid "IPv4+IPv6"
-msgstr "IPv4+IPv6"
-
 msgid "IPv4-Address"
-msgstr "Adresa IPv4"
+msgstr ""
 
 msgid "IPv4-in-IPv4 (RFC2003)"
 msgstr ""
 
 msgid "IPv6"
-msgstr "IPv6"
+msgstr ""
 
 msgid "IPv6 Firewall"
 msgstr ""
 
 msgid "IPv6 Neighbours"
-msgstr "IPv6 susedia"
+msgstr ""
 
 msgid "IPv6 Settings"
 msgstr ""
@@ -1513,11 +1369,14 @@ msgstr ""
 msgid "IPv6 ULA-Prefix"
 msgstr ""
 
-msgid "IPv6 Upstream"
+msgid "IPv6 WAN Status"
 msgstr ""
 
 msgid "IPv6 address"
-msgstr "Adresa IPv6"
+msgstr ""
+
+msgid "IPv6 address delegated to the local tunnel endpoint (optional)"
+msgstr ""
 
 msgid "IPv6 assignment hint"
 msgstr ""
@@ -1526,7 +1385,7 @@ msgid "IPv6 assignment length"
 msgstr ""
 
 msgid "IPv6 gateway"
-msgstr "Brána IPv6"
+msgstr ""
 
 msgid "IPv6 only"
 msgstr ""
@@ -1544,7 +1403,7 @@ msgid "IPv6 suffix"
 msgstr ""
 
 msgid "IPv6-Address"
-msgstr "Adresa IPv6"
+msgstr ""
 
 msgid "IPv6-PD"
 msgstr ""
@@ -1559,13 +1418,13 @@ msgid "IPv6-over-IPv4 (6to4)"
 msgstr ""
 
 msgid "Identity"
-msgstr "Identita"
+msgstr ""
 
-msgid "If checked, 1DES is enabled"
+msgid "If checked, 1DES is enaled"
 msgstr ""
 
 msgid "If checked, encryption is disabled"
-msgstr "Ak je zaškrtnuté, šifrovanie bude zakázané"
+msgstr ""
 
 msgid ""
 "If specified, mount the device by its UUID instead of a fixed device node"
@@ -1594,13 +1453,13 @@ msgid "Ignore <code>/etc/hosts</code>"
 msgstr ""
 
 msgid "Ignore interface"
-msgstr "Ignorovať rozhranie"
+msgstr ""
 
 msgid "Ignore resolve file"
 msgstr ""
 
 msgid "Image"
-msgstr "Obraz"
+msgstr ""
 
 msgid "In"
 msgstr ""
@@ -1611,7 +1470,7 @@ msgid ""
 msgstr ""
 
 msgid "Inactivity timeout"
-msgstr "Časový limit nečinnosti"
+msgstr ""
 
 msgid "Inbound:"
 msgstr ""
@@ -1619,14 +1478,11 @@ msgstr ""
 msgid "Info"
 msgstr ""
 
-msgid "Initialization failure"
+msgid "Initscript"
 msgstr ""
 
-msgid "Initscript"
-msgstr "Inicializačný skript"
-
 msgid "Initscripts"
-msgstr "Inicializačné skripty"
+msgstr ""
 
 msgid "Install"
 msgstr ""
@@ -1638,40 +1494,49 @@ msgid "Install package %q"
 msgstr ""
 
 msgid "Install protocol extensions..."
-msgstr "Inštalovať rozšírenia protokolu..."
+msgstr ""
 
 msgid "Installed packages"
 msgstr ""
 
 msgid "Interface"
-msgstr "Rozhranie"
+msgstr ""
 
 msgid "Interface %q device auto-migrated from %q to %q."
 msgstr ""
 
 msgid "Interface Configuration"
-msgstr "Konfigurácia rozhrania"
+msgstr ""
 
 msgid "Interface Overview"
 msgstr ""
 
 msgid "Interface is reconnecting..."
-msgstr "Rozhranie sa opätovne pripája..."
+msgstr ""
+
+msgid "Interface is shutting down..."
+msgstr ""
 
 msgid "Interface name"
-msgstr "Názov rozhrania"
+msgstr ""
 
 msgid "Interface not present or not connected yet."
-msgstr "Rozhranie nie je prítomné alebo ešte pripojené."
+msgstr ""
+
+msgid "Interface reconnected"
+msgstr ""
+
+msgid "Interface shut down"
+msgstr ""
 
 msgid "Interfaces"
-msgstr "Rozhrania"
+msgstr ""
 
 msgid "Internal"
 msgstr ""
 
 msgid "Internal Server Error"
-msgstr "Interná chyba serveru"
+msgstr ""
 
 msgid "Invalid"
 msgstr ""
@@ -1686,50 +1551,48 @@ msgid "Invalid username and/or password! Please try again."
 msgstr ""
 
 msgid "Isolate Clients"
-msgstr "Izolovať klientov"
+msgstr ""
 
 msgid ""
 "It appears that you are trying to flash an image that does not fit into the "
 "flash memory, please verify the image file!"
 msgstr ""
-"Zdá sa, že sa pokúšate nahrať obraz, ktorý sa nezmestí do pamäte flash. "
-"Prosím, overte súbor obrazu!"
 
 msgid "JavaScript required!"
-msgstr "Vyžaduje sa JavaScript!"
+msgstr ""
 
 msgid "Join Network"
-msgstr "Pripojiť sa k sieti"
+msgstr ""
 
 msgid "Join Network: Wireless Scan"
-msgstr "Pripojiť sa k sieti: Prehľadanie bezdrôtovej siete"
+msgstr ""
 
 msgid "Joining Network: %q"
-msgstr "Pripája sa k sieti: %q"
+msgstr ""
 
 msgid "Keep settings"
 msgstr ""
 
 msgid "Kernel Log"
-msgstr "Záznam jadra"
+msgstr ""
 
 msgid "Kernel Version"
-msgstr "Verzia jadra"
+msgstr ""
 
 msgid "Key"
-msgstr "Kľúč"
+msgstr ""
 
 msgid "Key #%d"
-msgstr "Kľúč #%d"
+msgstr ""
 
 msgid "Kill"
-msgstr "Ukončiť"
+msgstr ""
 
 msgid "L2TP"
-msgstr "L2TP"
+msgstr ""
 
 msgid "L2TP Server"
-msgstr "Server L2TP"
+msgstr ""
 
 msgid "LCP echo failure threshold"
 msgstr ""
@@ -1738,25 +1601,25 @@ msgid "LCP echo interval"
 msgstr ""
 
 msgid "LLC"
-msgstr "LLC"
+msgstr ""
 
 msgid "Label"
-msgstr "Menovka"
+msgstr ""
 
 msgid "Language"
-msgstr "Jazyk"
+msgstr ""
 
 msgid "Language and Style"
-msgstr "Jazyk a štýl"
+msgstr ""
 
 msgid "Latency"
-msgstr "Oneskorenie"
+msgstr ""
 
 msgid "Leaf"
 msgstr ""
 
 msgid "Lease time"
-msgstr "Čas prenájmu"
+msgstr ""
 
 msgid "Lease validity time"
 msgstr ""
@@ -1774,13 +1637,13 @@ msgid "Leave empty to use the current WAN address"
 msgstr ""
 
 msgid "Legend:"
-msgstr "Legenda:"
+msgstr ""
 
 msgid "Limit"
-msgstr "Obmedzenie"
+msgstr ""
 
 msgid "Limit DNS service to subnets interfaces on which we are serving DNS."
-msgstr "Obmedziť službu DNS rozhraniam podsietí, ktorým sa poskytuje DNS."
+msgstr ""
 
 msgid "Limit listening to these interfaces, and loopback."
 msgstr ""
@@ -1789,13 +1652,13 @@ msgid "Line Attenuation (LATN)"
 msgstr ""
 
 msgid "Line Mode"
-msgstr "Režim linky"
+msgstr ""
 
 msgid "Line State"
-msgstr "Stav linky"
+msgstr ""
 
 msgid "Line Uptime"
-msgstr "Doba pripojenia linky"
+msgstr ""
 
 msgid "Link On"
 msgstr ""
@@ -1831,50 +1694,46 @@ msgid "List of hosts that supply bogus NX domain results"
 msgstr ""
 
 msgid "Listen Interfaces"
-msgstr "Načúvacie rozhrania"
+msgstr ""
 
 msgid "Listen Port"
-msgstr "Načúvací port"
+msgstr ""
 
 msgid "Listen only on the given interface or, if unspecified, on all"
 msgstr ""
-"Načúvať iba na zadaných rozhraniach, alebo na všetkých, ak nie sú určené"
 
 msgid "Listening port for inbound DNS queries"
 msgstr ""
 
 msgid "Load"
-msgstr "Zaťaženie"
+msgstr ""
 
 msgid "Load Average"
-msgstr "Priemerné zaťaženie"
+msgstr ""
 
 msgid "Loading"
 msgstr ""
 
-msgid "Local IP address is invalid"
-msgstr "Miestna adresa IP nie je platná"
-
 msgid "Local IP address to assign"
-msgstr "Miestna adresa IP na priradenie"
+msgstr ""
 
 msgid "Local IPv4 address"
-msgstr "Miestna adresa IPv4"
+msgstr ""
 
 msgid "Local IPv6 address"
-msgstr "Miestna adresa IPv6"
+msgstr ""
 
 msgid "Local Service Only"
-msgstr "Iba miestna služba"
+msgstr ""
 
 msgid "Local Startup"
 msgstr ""
 
 msgid "Local Time"
-msgstr "Miestny čas"
+msgstr ""
 
 msgid "Local domain"
-msgstr "Miestna doména"
+msgstr ""
 
 msgid ""
 "Local domain specification. Names matching this domain are never forwarded "
@@ -1885,7 +1744,7 @@ msgid "Local domain suffix appended to DHCP names and hosts file entries"
 msgstr ""
 
 msgid "Local server"
-msgstr "Miestny server"
+msgstr ""
 
 msgid ""
 "Localise hostname depending on the requesting subnet if multiple IPs are "
@@ -1893,64 +1752,58 @@ msgid ""
 msgstr ""
 
 msgid "Localise queries"
-msgstr "Lokalizovať požiadavky"
+msgstr ""
 
 msgid "Locked to channel %s used by: %s"
 msgstr ""
 
 msgid "Log output level"
-msgstr "Úroveň výstupného záznamu"
+msgstr ""
 
 msgid "Log queries"
 msgstr ""
 
 msgid "Logging"
-msgstr "Zaznamenávanie"
+msgstr ""
 
 msgid "Login"
-msgstr "Prihlásiť sa"
+msgstr ""
 
 msgid "Logout"
-msgstr "Odhlásiť sa"
+msgstr ""
 
 msgid "Loss of Signal Seconds (LOSS)"
-msgstr "Sekundy straty signálu (LOSS)"
+msgstr ""
 
 msgid "Lowest leased address as offset from the network address."
 msgstr ""
 
-msgid "MAC"
-msgstr "MAC"
-
 msgid "MAC-Address"
-msgstr "MAC adresa"
+msgstr ""
 
 msgid "MAC-Address Filter"
-msgstr "Filter MAC adries"
+msgstr ""
 
 msgid "MAC-Filter"
-msgstr "Filter adries MAC"
+msgstr ""
 
 msgid "MAC-List"
-msgstr "Zoznam adries MAC"
+msgstr ""
 
 msgid "MAP / LW4over6"
 msgstr ""
-
-msgid "MAP rule is invalid"
-msgstr "Pravidlo MAP je neplatné"
 
 msgid "MB/s"
 msgstr ""
 
 msgid "MD5"
-msgstr "MD5"
+msgstr ""
 
 msgid "MHz"
-msgstr "MHz"
+msgstr ""
 
 msgid "MTU"
-msgstr "MTU"
+msgstr ""
 
 msgid ""
 "Make sure to clone the root filesystem using something like the commands "
@@ -1975,6 +1828,9 @@ msgstr ""
 msgid "Maximum amount of seconds to wait for the modem to become ready"
 msgstr ""
 
+msgid "Maximum hold time"
+msgstr ""
+
 msgid ""
 "Maximum length of the name is 15 characters including the automatic protocol/"
 "bridge prefix (br-, 6in4-, pppoe- etc.)"
@@ -1984,19 +1840,19 @@ msgid "Maximum number of leased addresses."
 msgstr ""
 
 msgid "Mbit/s"
-msgstr "Mbit/s"
+msgstr ""
 
 msgid "Memory"
-msgstr "Pamäť"
+msgstr ""
 
 msgid "Memory usage (%)"
-msgstr "Využitie pamäte (%)"
-
-msgid "Mesh Id"
 msgstr ""
 
 msgid "Metric"
-msgstr "Metrika"
+msgstr ""
+
+msgid "Minimum hold time"
+msgstr ""
 
 msgid "Mirror monitor port"
 msgstr ""
@@ -2011,18 +1867,12 @@ msgid "Mobility Domain"
 msgstr ""
 
 msgid "Mode"
-msgstr "Režim"
+msgstr ""
 
 msgid "Model"
-msgstr "Model"
-
-msgid "Modem default"
 msgstr ""
 
 msgid "Modem device"
-msgstr ""
-
-msgid "Modem information query failed"
 msgstr ""
 
 msgid "Modem init timeout"
@@ -2035,10 +1885,10 @@ msgid "Mount Entry"
 msgstr ""
 
 msgid "Mount Point"
-msgstr "Bod pripojenia"
+msgstr ""
 
 msgid "Mount Points"
-msgstr "Body pripojení"
+msgstr ""
 
 msgid "Mount Points - Mount Entry"
 msgstr ""
@@ -2055,16 +1905,16 @@ msgid "Mount filesystems not specifically configured"
 msgstr ""
 
 msgid "Mount options"
-msgstr "Voľby pripojenia"
+msgstr ""
 
 msgid "Mount point"
-msgstr "Bod pripojenia"
+msgstr ""
 
 msgid "Mount swap not specifically configured"
 msgstr ""
 
 msgid "Mounted file systems"
-msgstr "Pripojené súborové systémy"
+msgstr ""
 
 msgid "Move down"
 msgstr ""
@@ -2085,69 +1935,63 @@ msgid "NAT64 Prefix"
 msgstr ""
 
 msgid "NCM"
-msgstr "NCM"
+msgstr ""
 
 msgid "NDP-Proxy"
 msgstr ""
 
 msgid "NT Domain"
-msgstr "Doména NT"
+msgstr ""
 
 msgid "NTP server candidates"
-msgstr "Kandidáti serverov NTP"
+msgstr ""
+
+msgid "NTP sync time-out"
+msgstr ""
 
 msgid "Name"
-msgstr "Názov"
+msgstr ""
 
 msgid "Name of the new interface"
 msgstr ""
 
 msgid "Name of the new network"
-msgstr "Názov novej siete"
+msgstr ""
 
 msgid "Navigation"
-msgstr "Navigácia"
+msgstr ""
 
 msgid "Netmask"
 msgstr ""
 
 msgid "Network"
-msgstr "Sieť"
+msgstr ""
 
 msgid "Network Utilities"
-msgstr "Sieťové nástroje"
+msgstr ""
 
 msgid "Network boot image"
 msgstr ""
-
-msgid "Network device is not present"
-msgstr "Sieťové zariadenie nie je prítomné"
 
 msgid "Network without interfaces."
 msgstr ""
 
 msgid "Next »"
-msgstr "Ďalej »"
-
-msgid "No"
-msgstr "Nie"
+msgstr ""
 
 msgid "No DHCP Server configured for this interface"
-msgstr "Pre toto rozhranie nie je nastavený server DHCP"
+msgstr ""
 
 msgid "No NAT-T"
-msgstr "Bez NAT-T"
+msgstr ""
 
 msgid "No chains in this table"
 msgstr ""
 
 msgid "No files found"
-msgstr "Nenašli sa žiadne súbory"
+msgstr ""
 
 msgid "No information available"
-msgstr "Nie sú dostupné žiadne informácie"
-
-msgid "No matching prefix delegation"
 msgstr ""
 
 msgid "No negative cache"
@@ -2163,25 +2007,22 @@ msgid "No package lists available"
 msgstr ""
 
 msgid "No password set!"
-msgstr "Heslo nie je nastavené!"
+msgstr ""
 
 msgid "No rules in this chain"
 msgstr ""
 
-msgid "No scan results available yet..."
+msgid "No zone assigned"
 msgstr ""
 
-msgid "No zone assigned"
-msgstr "Žiadna priradená zóna"
-
 msgid "Noise"
-msgstr "Šum"
+msgstr ""
 
 msgid "Noise Margin (SNR)"
 msgstr ""
 
 msgid "Noise:"
-msgstr "Šum:"
+msgstr ""
 
 msgid "Non Pre-emtive CRC errors (CRC_P)"
 msgstr ""
@@ -2196,13 +2037,13 @@ msgid "Normal"
 msgstr ""
 
 msgid "Not Found"
-msgstr "Nenájdené"
+msgstr ""
 
 msgid "Not associated"
 msgstr ""
 
 msgid "Not connected"
-msgstr "Nepripojené"
+msgstr ""
 
 msgid "Note: Configuration files will be erased."
 msgstr ""
@@ -2216,9 +2057,6 @@ msgstr ""
 msgid "Nslookup"
 msgstr ""
 
-msgid "Number of cached DNS entries (max is 10000, 0 is no caching)"
-msgstr ""
-
 msgid "OK"
 msgstr ""
 
@@ -2230,9 +2068,6 @@ msgstr ""
 
 msgid "Obfuscated Password"
 msgstr ""
-
-msgid "Obtain IPv6-Address"
-msgstr "Získať adresu IPv6"
 
 msgid "Off-State Delay"
 msgstr ""
@@ -2262,22 +2097,28 @@ msgid "One or more required fields have no value!"
 msgstr ""
 
 msgid "Open list..."
-msgstr "Otvoriť zoznam..."
+msgstr ""
 
 msgid "OpenConnect (CISCO AnyConnect)"
 msgstr ""
 
 msgid "Operating frequency"
-msgstr "Pracovná frekvencia"
+msgstr ""
 
 msgid "Option changed"
-msgstr "Voľba zmenená"
+msgstr ""
 
 msgid "Option removed"
-msgstr "Voľba odstránená"
+msgstr ""
 
 msgid "Optional"
-msgstr "Voliteľné"
+msgstr ""
+
+msgid "Optional, specify to override default server (tic.sixxs.net)"
+msgstr ""
+
+msgid "Optional, use when the SIXXS account has more than one tunnel"
+msgstr ""
 
 msgid ""
 "Optional. 32-bit mark for outgoing encrypted packets. Enter value in hex, "
@@ -2299,9 +2140,6 @@ msgstr ""
 msgid "Optional. Create routes for Allowed IPs for this peer."
 msgstr ""
 
-msgid "Optional. Description of peer."
-msgstr "Voliteľné. Popis účastníka."
-
 msgid ""
 "Optional. Host of peer. Names are resolved prior to bringing up the "
 "interface."
@@ -2311,7 +2149,7 @@ msgid "Optional. Maximum Transmission Unit of tunnel interface."
 msgstr ""
 
 msgid "Optional. Port of peer."
-msgstr "Voliteľné. Port účastníka."
+msgstr ""
 
 msgid ""
 "Optional. Seconds between keep alive messages. Default is 0 (disabled). "
@@ -2322,7 +2160,7 @@ msgid "Optional. UDP port used for outgoing and incoming packets."
 msgstr ""
 
 msgid "Options"
-msgstr "Voľby"
+msgstr ""
 
 msgid "Other:"
 msgstr ""
@@ -2334,13 +2172,13 @@ msgid "Outbound:"
 msgstr ""
 
 msgid "Output Interface"
-msgstr "Výstupné rozhranie"
+msgstr ""
 
 msgid "Override MAC address"
-msgstr "Prepísať MAC adresu"
+msgstr ""
 
 msgid "Override MTU"
-msgstr "Prepísať MTU"
+msgstr ""
 
 msgid "Override TOS"
 msgstr ""
@@ -2363,46 +2201,43 @@ msgid "Override the table used for internal routes"
 msgstr ""
 
 msgid "Overview"
-msgstr "Prehľad"
+msgstr ""
 
 msgid "Owner"
-msgstr "Vlastník"
+msgstr ""
 
 msgid "PAP/CHAP password"
-msgstr "Heslo PAP/CHAP"
+msgstr ""
 
 msgid "PAP/CHAP username"
-msgstr "Používateľské meno PAP/CHAP"
+msgstr ""
 
 msgid "PID"
-msgstr "PID"
+msgstr ""
 
 msgid "PIN"
-msgstr "PIN"
-
-msgid "PIN code rejected"
-msgstr "Kód PIN bol zamietnutý"
+msgstr ""
 
 msgid "PMK R1 Push"
 msgstr ""
 
 msgid "PPP"
-msgstr "PPP"
+msgstr ""
 
 msgid "PPPoA Encapsulation"
-msgstr "Zapuzdrenie PPPoA"
+msgstr ""
 
 msgid "PPPoATM"
-msgstr "PPPoATM"
+msgstr ""
 
 msgid "PPPoE"
-msgstr "PPPoE"
+msgstr ""
 
 msgid "PPPoSSH"
-msgstr "PPPoSSH"
+msgstr ""
 
 msgid "PPtP"
-msgstr "PPtP"
+msgstr ""
 
 msgid "PSID offset"
 msgstr ""
@@ -2423,22 +2258,22 @@ msgid "Package name"
 msgstr ""
 
 msgid "Packets"
-msgstr "Pakety"
+msgstr ""
 
 msgid "Part of zone %q"
-msgstr "Časť zóny %q"
+msgstr ""
 
 msgid "Password"
-msgstr "Heslo"
+msgstr ""
 
 msgid "Password authentication"
-msgstr "Heslo pre overenie totožnosti"
+msgstr ""
 
 msgid "Password of Private Key"
-msgstr "Heslo súkromného kľúča"
+msgstr ""
 
 msgid "Password of inner Private Key"
-msgstr "Heslo vnútorného súkromného kľúča"
+msgstr ""
 
 msgid "Password successfully changed!"
 msgstr ""
@@ -2453,7 +2288,10 @@ msgid "Path to Client-Certificate"
 msgstr ""
 
 msgid "Path to Private Key"
-msgstr "Cesta k súkromnému kľúču"
+msgstr ""
+
+msgid "Path to executable which handles the button event"
+msgstr ""
 
 msgid "Path to inner CA-Certificate"
 msgstr ""
@@ -2465,25 +2303,22 @@ msgid "Path to inner Private Key"
 msgstr ""
 
 msgid "Peak:"
-msgstr "Vrchol:"
+msgstr ""
 
 msgid "Peer IP address to assign"
-msgstr "Adresa IP účastníka, ktorá sa má priradiť"
-
-msgid "Peer address is missing"
-msgstr "Chýba adresa účastníka"
+msgstr ""
 
 msgid "Peers"
-msgstr "Účastníci"
+msgstr ""
 
 msgid "Perfect Forward Secrecy"
 msgstr ""
 
 msgid "Perform reboot"
-msgstr "Vykonať reštart"
+msgstr ""
 
 msgid "Perform reset"
-msgstr "Vykonať obnovenie"
+msgstr ""
 
 msgid "Persistent Keep Alive"
 msgstr ""
@@ -2492,34 +2327,34 @@ msgid "Phy Rate:"
 msgstr ""
 
 msgid "Physical Settings"
-msgstr "Fyzické nastavenia"
+msgstr ""
 
 msgid "Ping"
-msgstr "Ping"
+msgstr ""
 
 msgid "Pkts."
 msgstr ""
 
 msgid "Please enter your username and password."
-msgstr "Prosím, zadajte vaše používateľské meno a heslo."
+msgstr ""
 
 msgid "Policy"
 msgstr ""
 
 msgid "Port"
-msgstr "Port"
+msgstr ""
 
 msgid "Port status:"
-msgstr "Stav portu:"
+msgstr ""
 
 msgid "Power Management Mode"
-msgstr "Režim správy napájania"
+msgstr ""
 
 msgid "Pre-emtive CRC errors (CRCP_P)"
 msgstr ""
 
 msgid "Prefer LTE"
-msgstr "Uprednostniť LTE"
+msgstr ""
 
 msgid "Prefer UMTS"
 msgstr ""
@@ -2528,7 +2363,7 @@ msgid "Prefix Delegated"
 msgstr ""
 
 msgid "Preshared Key"
-msgstr "Predzdieľaný kľúč"
+msgstr ""
 
 msgid ""
 "Presume peer to be dead after given amount of LCP echo failures, use 0 to "
@@ -2541,23 +2376,26 @@ msgstr ""
 msgid "Prevents client-to-client communication"
 msgstr ""
 
+msgid "Prism2/2.5/3 802.11b Wireless Controller"
+msgstr ""
+
 msgid "Private Key"
-msgstr "Súkromný kľúč"
+msgstr ""
 
 msgid "Proceed"
 msgstr ""
 
 msgid "Processes"
-msgstr "Procesy"
+msgstr ""
 
 msgid "Profile"
-msgstr "Profil"
+msgstr ""
 
 msgid "Prot."
 msgstr ""
 
 msgid "Protocol"
-msgstr "Protokol"
+msgstr ""
 
 msgid "Protocol family"
 msgstr ""
@@ -2569,7 +2407,7 @@ msgid "Protocol support is not installed"
 msgstr ""
 
 msgid "Provide NTP server"
-msgstr "Poskytnúť server NTP"
+msgstr ""
 
 msgid "Provide new network"
 msgstr ""
@@ -2578,7 +2416,7 @@ msgid "Pseudo Ad-Hoc (ahdemo)"
 msgstr ""
 
 msgid "Public Key"
-msgstr "Verejný kľúč"
+msgstr ""
 
 msgid "Public prefix routed to this device for distribution to clients."
 msgstr ""
@@ -2587,11 +2425,6 @@ msgid "QMI Cellular"
 msgstr ""
 
 msgid "Quality"
-msgstr "Kvalita"
-
-msgid ""
-"Query all available upstream <abbr title=\"Domain Name System\">DNS</abbr> "
-"servers"
 msgstr ""
 
 msgid "R0 Key Lifetime"
@@ -2604,13 +2437,16 @@ msgid "RFC3947 NAT-T mode"
 msgstr ""
 
 msgid "RTS/CTS Threshold"
-msgstr "Prah RTS/CTS"
+msgstr ""
 
 msgid "RX"
-msgstr "Prijímanie"
+msgstr ""
 
 msgid "RX Rate"
-msgstr "Rýchlosť prijímania"
+msgstr ""
+
+msgid "RaLink 802.11%s Wireless Controller"
+msgstr ""
 
 msgid "Radius-Accounting-Port"
 msgstr ""
@@ -2630,35 +2466,42 @@ msgstr ""
 msgid "Radius-Authentication-Server"
 msgstr ""
 
-msgid "Raw hex-encoded bytes. Leave empty unless your ISP require this"
-msgstr ""
-
 msgid ""
 "Read <code>/etc/ethers</code> to configure the <abbr title=\"Dynamic Host "
 "Configuration Protocol\">DHCP</abbr>-Server"
 msgstr ""
 
 msgid ""
-"Really delete this interface? The deletion cannot be undone! You might lose "
-"access to this device if you are connected via this interface"
+"Really delete this interface? The deletion cannot be undone!\\nYou might "
+"lose access to this device if you are connected via this interface."
 msgstr ""
 
 msgid ""
-"Really delete this wireless network? The deletion cannot be undone! You "
+"Really delete this wireless network? The deletion cannot be undone!\\nYou "
 "might lose access to this device if you are connected via this network."
 msgstr ""
 
 msgid "Really reset all changes?"
 msgstr ""
 
+msgid ""
+"Really shut down network?\\nYou might lose access to this device if you are "
+"connected via this interface."
+msgstr ""
+
+msgid ""
+"Really shutdown interface \"%s\" ?\\nYou might lose access to this device if "
+"you are connected via this interface."
+msgstr ""
+
 msgid "Really switch protocol?"
-msgstr "Skutočne sa má prepnúť protokol?"
+msgstr ""
 
 msgid "Realtime Connections"
 msgstr ""
 
 msgid "Realtime Graphs"
-msgstr "Grafy v reálnom čase"
+msgstr ""
 
 msgid "Realtime Load"
 msgstr ""
@@ -2676,13 +2519,13 @@ msgid "Rebind protection"
 msgstr ""
 
 msgid "Reboot"
-msgstr "Reštart"
+msgstr ""
 
 msgid "Rebooting..."
 msgstr ""
 
 msgid "Reboots the operating system of your device"
-msgstr "Vykoná reštart operačného systému vášho zariadenia"
+msgstr ""
 
 msgid "Receive"
 msgstr ""
@@ -2694,10 +2537,13 @@ msgid "Recommended. IP addresses of the WireGuard interface."
 msgstr ""
 
 msgid "Reconnect this interface"
-msgstr "Opätovne pripojiť toto rozhranie"
+msgstr ""
+
+msgid "Reconnecting interface"
+msgstr ""
 
 msgid "References"
-msgstr "Referencie"
+msgstr ""
 
 msgid "Relay"
 msgstr ""
@@ -2718,7 +2564,7 @@ msgid "Remote IPv4 address or FQDN"
 msgstr ""
 
 msgid "Remove"
-msgstr "Odstrániť"
+msgstr ""
 
 msgid "Repeat scan"
 msgstr ""
@@ -2735,8 +2581,11 @@ msgstr ""
 msgid "Request IPv6-prefix of length"
 msgstr ""
 
+msgid "Require TLS"
+msgstr ""
+
 msgid "Required"
-msgstr "Vyžadované"
+msgstr ""
 
 msgid "Required for certain ISPs, e.g. Charter with DOCSIS 3"
 msgstr ""
@@ -2764,13 +2613,13 @@ msgid ""
 msgstr ""
 
 msgid "Reset"
-msgstr "Obnoviť"
+msgstr ""
 
 msgid "Reset Counters"
 msgstr ""
 
 msgid "Reset to defaults"
-msgstr "Obnoviť na predvolené hodnoty"
+msgstr ""
 
 msgid "Resolv and Hosts Files"
 msgstr ""
@@ -2779,34 +2628,19 @@ msgid "Resolve file"
 msgstr ""
 
 msgid "Restart"
-msgstr "Reštartovať"
-
-msgid "Restart Firewall"
-msgstr "Reštartovať bránu Firewall"
-
-msgid "Restart radio interface"
-msgstr "Reštartovať rádiové rozhranie"
-
-msgid "Restore"
-msgstr "Obnoviť"
-
-msgid "Restore backup"
-msgstr "Obnoviť zo zálohy"
-
-msgid "Reveal/hide password"
-msgstr "Odkryť/skryť heslo"
-
-msgid "Revert"
-msgstr "Vrátiť späť"
-
-msgid "Revert changes"
-msgstr "Vrátiť zmeny"
-
-msgid "Revert request failed with status <code>%h</code>"
 msgstr ""
 
-msgid "Reverting configuration…"
-msgstr "Vracia sa späť konfigurácia…"
+msgid "Restart Firewall"
+msgstr ""
+
+msgid "Restore backup"
+msgstr ""
+
+msgid "Reveal/hide password"
+msgstr ""
+
+msgid "Revert"
+msgstr ""
 
 msgid "Root"
 msgstr ""
@@ -2823,21 +2657,22 @@ msgstr ""
 msgid "Route type"
 msgstr ""
 
+msgid "Routed IPv6 prefix for downstream interfaces"
+msgstr ""
+
 msgid "Router Advertisement-Service"
 msgstr ""
 
 msgid "Router Password"
-msgstr "Heslo smerovača"
+msgstr ""
 
 msgid "Routes"
-msgstr "Smerovania"
+msgstr ""
 
 msgid ""
 "Routes specify over which interface and gateway a certain host or network "
 "can be reached."
 msgstr ""
-"Smerovania určujú, cez ktoré rozhranie a bránu je možné dosiahnuť určitého "
-"hostiteľa alebo sieť."
 
 msgid "Run a filesystem check before mounting the device"
 msgstr ""
@@ -2846,49 +2681,57 @@ msgid "Run filesystem check"
 msgstr ""
 
 msgid "SHA256"
-msgstr "SHA256"
+msgstr ""
+
+msgid ""
+"SIXXS supports TIC only, for static tunnels using IP protocol 41 (RFC4213) "
+"use 6in4 instead"
+msgstr ""
+
+msgid "SIXXS-handle[/Tunnel-ID]"
+msgstr ""
 
 msgid "SNR"
 msgstr ""
 
 msgid "SSH Access"
-msgstr "Prístup SSH"
+msgstr ""
 
 msgid "SSH server address"
-msgstr "Adresa servera SSH"
+msgstr ""
 
 msgid "SSH server port"
-msgstr "Port servera SSH"
+msgstr ""
 
 msgid "SSH username"
-msgstr "Meno používateľa SSH"
+msgstr ""
 
 msgid "SSH-Keys"
-msgstr "Kľúče SSH"
+msgstr ""
 
 msgid "SSID"
-msgstr "SSID"
+msgstr ""
 
 msgid "Save"
-msgstr "Uložiť"
+msgstr ""
 
 msgid "Save & Apply"
-msgstr "Uložiť a použiť"
+msgstr ""
+
+msgid "Save &#38; Apply"
+msgstr ""
 
 msgid "Scan"
-msgstr "Prehľadať"
-
-msgid "Scan request failed"
 msgstr ""
 
 msgid "Scheduled Tasks"
-msgstr "Naplánované úlohy"
+msgstr ""
 
 msgid "Section added"
-msgstr "Sekcia pridaná"
+msgstr ""
 
 msgid "Section removed"
-msgstr "Sekcia odstránená"
+msgstr ""
 
 msgid "See \"mount\" manpage for details"
 msgstr ""
@@ -2902,18 +2745,26 @@ msgid "Separate Clients"
 msgstr ""
 
 msgid "Server Settings"
-msgstr "Nastavenia servera"
+msgstr ""
+
+msgid "Server password"
+msgstr ""
+
+msgid ""
+"Server password, enter the specific password of the tunnel when the username "
+"contains the tunnel ID"
+msgstr ""
+
+msgid "Server username"
+msgstr ""
 
 msgid "Service Name"
-msgstr "Názov služby"
+msgstr ""
 
 msgid "Service Type"
-msgstr "Typ služby"
+msgstr ""
 
 msgid "Services"
-msgstr "Služby"
-
-msgid "Set VPN as Default Route"
 msgstr ""
 
 msgid ""
@@ -2924,14 +2775,8 @@ msgstr ""
 msgid "Set up Time Synchronization"
 msgstr ""
 
-msgid "Setting PLMN failed"
-msgstr ""
-
-msgid "Setting operation mode failed"
-msgstr ""
-
 msgid "Setup DHCP Server"
-msgstr "Nastavenie servera DHCP"
+msgstr ""
 
 msgid "Severely Errored Seconds (SES)"
 msgstr ""
@@ -2939,41 +2784,38 @@ msgstr ""
 msgid "Short GI"
 msgstr ""
 
-msgid "Short Preamble"
-msgstr ""
-
 msgid "Show current backup file list"
 msgstr ""
 
 msgid "Shutdown this interface"
-msgstr "Vypnúť toto rozhranie"
+msgstr ""
+
+msgid "Shutdown this network"
+msgstr ""
 
 msgid "Signal"
-msgstr "Signál"
+msgstr ""
 
 msgid "Signal Attenuation (SATN)"
 msgstr ""
 
 msgid "Signal:"
-msgstr "Signál:"
+msgstr ""
 
 msgid "Size"
-msgstr "Veľkosť"
+msgstr ""
 
 msgid "Size (.ipk)"
 msgstr ""
 
-msgid "Size of DNS query cache"
+msgid "Skip"
 msgstr ""
 
-msgid "Skip"
-msgstr "Preskočiť"
-
 msgid "Skip to content"
-msgstr "Preskočiť na obsah"
+msgstr ""
 
 msgid "Skip to navigation"
-msgstr "Preskočiť na navigáciu"
+msgstr ""
 
 msgid "Slot time"
 msgstr ""
@@ -2985,13 +2827,13 @@ msgid "Software VLAN"
 msgstr ""
 
 msgid "Some fields are invalid, cannot save values!"
-msgstr "Niektoré polia sú neplatné. Nedajú sa uložiť hodnoty!"
+msgstr ""
 
 msgid "Sorry, the object you requested was not found."
-msgstr "Prepáčte, objekt, ktorý ste požadovali sa nenašiel."
+msgstr ""
 
 msgid "Sorry, the server encountered an unexpected error."
-msgstr "Prepáčte, serve narazil na neočakávanú chybu."
+msgstr ""
 
 msgid ""
 "Sorry, there is no sysupgrade support present; a new firmware image must be "
@@ -2999,11 +2841,20 @@ msgid ""
 "instructions."
 msgstr ""
 
+msgid "Sort"
+msgstr ""
+
 msgid "Source"
-msgstr "Zdroj"
+msgstr ""
+
+msgid "Source routing"
+msgstr ""
+
+msgid "Specifies the button state to handle"
+msgstr ""
 
 msgid "Specifies the directory the device is attached to"
-msgstr "Určuje adresár, ku ktorému bude pričlenené zariadenie"
+msgstr ""
 
 msgid "Specifies the listening port of this <em>Dropbear</em> instance"
 msgstr ""
@@ -3032,37 +2883,31 @@ msgid ""
 msgstr ""
 
 msgid "Specify the secret encryption key here."
-msgstr "Tu určte kľúč s tajným šifrovaním."
+msgstr ""
 
 msgid "Start"
-msgstr "Spustiť"
+msgstr ""
 
 msgid "Start priority"
-msgstr "Počiatočná priorita"
-
-msgid "Starting configuration apply…"
-msgstr "Spúšťa sa aplikovanie konfigurácie…"
-
-msgid "Starting wireless scan..."
-msgstr "Spúšťa sa prehľadávanie bezdrôtových sietí..."
+msgstr ""
 
 msgid "Startup"
-msgstr "Po spustení"
+msgstr ""
 
 msgid "Static IPv4 Routes"
-msgstr "Statické IPv4 smerovania"
+msgstr ""
 
 msgid "Static IPv6 Routes"
-msgstr "Statické IPv6 smerovania"
+msgstr ""
 
 msgid "Static Leases"
-msgstr "Statické prenájmy"
+msgstr ""
 
 msgid "Static Routes"
-msgstr "Pevné smerovania"
+msgstr ""
 
 msgid "Static address"
-msgstr "Pevná adresa"
+msgstr ""
 
 msgid ""
 "Static leases are used to assign fixed IP addresses and symbolic hostnames "
@@ -3071,16 +2916,16 @@ msgid ""
 msgstr ""
 
 msgid "Status"
-msgstr "Stav"
+msgstr ""
 
 msgid "Stop"
-msgstr "Zastaviť"
+msgstr ""
 
 msgid "Strict order"
 msgstr ""
 
 msgid "Submit"
-msgstr "Odoslať"
+msgstr ""
 
 msgid "Suppress logging"
 msgstr ""
@@ -3107,59 +2952,56 @@ msgid ""
 "Switch %q has an unknown topology - the VLAN settings might not be accurate."
 msgstr ""
 
-msgid "Switch Port Mask"
-msgstr ""
-
 msgid "Switch VLAN"
 msgstr ""
 
 msgid "Switch protocol"
-msgstr "Prepnúť protokol"
+msgstr ""
 
 msgid "Sync with browser"
-msgstr "Synch. s prehliadačom"
+msgstr ""
 
 msgid "Synchronizing..."
 msgstr ""
 
 msgid "System"
-msgstr "Systém"
+msgstr ""
 
 msgid "System Log"
-msgstr "Systémový denník"
+msgstr ""
 
 msgid "System Properties"
-msgstr "Vlastnosti systému"
+msgstr ""
 
 msgid "System log buffer size"
-msgstr "Veľkosť vyrovnávacej pamäte systémového denníka"
+msgstr ""
 
 msgid "TCP:"
-msgstr "TCP:"
+msgstr ""
 
 msgid "TFTP Settings"
-msgstr "Nastavenia TFTP"
+msgstr ""
 
 msgid "TFTP server root"
-msgstr "Koreňový priečinok servera TFTP"
+msgstr ""
 
 msgid "TX"
-msgstr "Odosielanie"
+msgstr ""
 
 msgid "TX Rate"
-msgstr "Rýchlosť odosielania"
+msgstr ""
 
 msgid "Table"
-msgstr "Tabuľka"
+msgstr ""
 
 msgid "Target"
-msgstr "Cieľ"
+msgstr ""
 
 msgid "Target network"
-msgstr "Cieľová sieť"
+msgstr ""
 
 msgid "Terminate"
-msgstr "Vypovedať"
+msgstr ""
 
 msgid ""
 "The <em>Device Configuration</em> section covers physical settings of the "
@@ -3191,23 +3033,8 @@ msgid ""
 "The allowed characters are: <code>A-Z</code>, <code>a-z</code>, <code>0-9</"
 "code> and <code>_</code>"
 msgstr ""
-"Povolené znaky sú: <code>A-Z</code>, <code>a-z</code>, <code>0-9</code> a "
-"<code>_</code>"
-
-msgid "The backup archive does not appear to be a valid gzip file."
-msgstr ""
 
 msgid "The configuration file could not be loaded due to the following error:"
-msgstr "Konfiguračný súbor sa nepodarilo načítať, kvôli nasledovnej chybe:"
-
-msgid ""
-"The device could not be reached within %d seconds after applying the pending "
-"changes, which caused the configuration to be rolled back for safety "
-"reasons. If you believe that the configuration changes are correct "
-"nonetheless, perform an unchecked configuration apply. Alternatively, you "
-"can dismiss this warning and edit changes before attempting to apply again, "
-"or revert all pending changes to keep the currently working configuration "
-"state."
 msgstr ""
 
 msgid ""
@@ -3227,11 +3054,14 @@ msgid ""
 "\"Proceed\" below to start the flash procedure."
 msgstr ""
 
+msgid "The following changes have been committed"
+msgstr ""
+
 msgid "The following changes have been reverted"
 msgstr ""
 
 msgid "The following rules are currently active on this system."
-msgstr "V tomto systéme sú momentálne aktívne nasledujúce pravidlá."
+msgstr ""
 
 msgid "The given network name is not unique"
 msgstr ""
@@ -3280,6 +3110,11 @@ msgid ""
 msgstr ""
 
 msgid ""
+"The tunnel end-point is behind NAT, defaults to disabled and only applies to "
+"AYIYA"
+msgstr ""
+
+msgid ""
 "The uploaded image file does not contain a supported format. Make sure that "
 "you choose the generic image format for your platform."
 msgstr ""
@@ -3287,7 +3122,7 @@ msgstr ""
 msgid "There are no active leases."
 msgstr ""
 
-msgid "There are no changes to apply."
+msgid "There are no pending changes to apply!"
 msgstr ""
 
 msgid "There are no pending changes to revert!"
@@ -3305,8 +3140,6 @@ msgid ""
 "There is no password set on this router. Please configure a root password to "
 "protect the web interface and enable SSH."
 msgstr ""
-"Tento smerovač nemá nastavené žiadne heslo. Prosím, nastavte heslo správcu, "
-"aby ste ochránili webové rozhranie a povoľte SSH."
 
 msgid "This IPv4 address of the relay"
 msgstr ""
@@ -3332,12 +3165,10 @@ msgid ""
 "This is the content of /etc/rc.local. Insert your own commands here (in "
 "front of 'exit 0') to execute them at the end of the boot process."
 msgstr ""
-"Toto je obsah /etc/rc.local. Sem zadajte svoje vlastné príkazy (pred 'exit "
-"0') pre ich vykonanie na konci procesu zavádzania."
 
 msgid ""
 "This is the local endpoint address assigned by the tunnel broker, it usually "
-"ends with <code>...:2/64</code>"
+"ends with <code>:2</code>"
 msgstr ""
 
 msgid ""
@@ -3353,7 +3184,7 @@ msgid ""
 msgstr ""
 
 msgid "This is the system crontab in which scheduled tasks can be defined."
-msgstr "Toto je systém crontab, v ktorom môžu byť určené naplánované úlohy."
+msgstr ""
 
 msgid ""
 "This is usually the address of the nearest PoP operated by the tunnel broker"
@@ -3363,48 +3194,44 @@ msgid ""
 "This list gives an overview over currently running system processes and "
 "their status."
 msgstr ""
-"Tento zoznam poskytuje prehľad o aktuálne spustených systémových procesoch a "
-"ich stave."
+
+msgid "This page allows the configuration of custom button actions"
+msgstr ""
 
 msgid "This page gives an overview over currently active network connections."
 msgstr ""
 
 msgid "This section contains no values yet"
-msgstr "Táto sekcia zatiaľ neobsahuje žiadne hodnoty"
+msgstr ""
 
 msgid "Time Synchronization"
-msgstr "Synchronizácia času"
+msgstr ""
 
 msgid "Time Synchronization is not configured yet."
 msgstr ""
 
 msgid "Timezone"
-msgstr "Časové pásmo"
+msgstr ""
 
 msgid ""
 "To restore configuration files, you can upload a previously generated backup "
-"archive here. To reset the firmware to its initial state, click \"Perform "
-"reset\" (only possible with squashfs images)."
+"archive here."
 msgstr ""
-"Ak chcete obnoviť konfiguračné súbory, môžete tu nahrať predtým vygenerovaný "
-"záložný archív. Ak chcete firmvér resetovať do pôvodného stavu, kliknite na "
-"tlačidlo „Vykonať obnovenie“ (to je možné iba pri obrázkoch vo formáte "
-"squashfs)."
 
 msgid "Tone"
 msgstr ""
 
 msgid "Total Available"
-msgstr "Celková dostupná"
+msgstr ""
 
 msgid "Traceroute"
 msgstr ""
 
 msgid "Traffic"
-msgstr "Premávka"
+msgstr ""
 
 msgid "Transfer"
-msgstr "Prenos"
+msgstr ""
 
 msgid "Transmission Rate"
 msgstr ""
@@ -3419,7 +3246,7 @@ msgid "Transmitter Antenna"
 msgstr ""
 
 msgid "Trigger"
-msgstr "Spúšťač"
+msgstr ""
 
 msgid "Trigger Mode"
 msgstr ""
@@ -3433,82 +3260,61 @@ msgstr ""
 msgid "Tunnel Link"
 msgstr ""
 
+msgid "Tunnel broker protocol"
+msgstr ""
+
+msgid "Tunnel setup server"
+msgstr ""
+
+msgid "Tunnel type"
+msgstr ""
+
 msgid "Tx-Power"
 msgstr ""
 
 msgid "Type"
-msgstr "Typ"
+msgstr ""
 
 msgid "UDP:"
-msgstr "UDP:"
+msgstr ""
 
 msgid "UMTS only"
-msgstr "Iba UMTS"
+msgstr ""
 
 msgid "UMTS/GPRS/EV-DO"
-msgstr "UMTS/GPRS/EV-DO"
+msgstr ""
 
 msgid "USB Device"
-msgstr "Zariadenie USB"
+msgstr ""
 
 msgid "USB Ports"
 msgstr ""
 
 msgid "UUID"
-msgstr "UUID"
-
-msgid "Unable to determine device name"
-msgstr "Nie je možné zistiť názov zariadenia"
-
-msgid "Unable to determine external IP address"
-msgstr ""
-
-msgid "Unable to determine upstream interface"
 msgstr ""
 
 msgid "Unable to dispatch"
-msgstr ""
-
-msgid "Unable to obtain client ID"
-msgstr ""
-
-msgid "Unable to resolve AFTR host name"
-msgstr ""
-
-msgid "Unable to resolve peer host name"
 msgstr ""
 
 msgid "Unavailable Seconds (UAS)"
 msgstr ""
 
 msgid "Unknown"
-msgstr "Neznáme"
+msgstr ""
 
 msgid "Unknown Error, password not changed!"
 msgstr ""
 
-msgid "Unknown error (%s)"
-msgstr "Neznáma chyba (%s)"
-
 msgid "Unmanaged"
-msgstr "Nespravované"
-
-msgid "Unmount"
-msgstr "Odpojiť"
-
-msgid "Unsaved Changes"
-msgstr "Neuložené zmeny"
-
-msgid "Unsupported MAP type"
 msgstr ""
 
-msgid "Unsupported modem"
-msgstr "Nepodporovaný modem"
+msgid "Unmount"
+msgstr ""
+
+msgid "Unsaved Changes"
+msgstr ""
 
 msgid "Unsupported protocol type."
-msgstr "Nepodporovaný typ protokolu."
-
-msgid "Up"
 msgstr ""
 
 msgid "Update lists"
@@ -3521,19 +3327,19 @@ msgid ""
 msgstr ""
 
 msgid "Upload archive..."
-msgstr "Odovzdať archív..."
+msgstr ""
 
 msgid "Uploaded File"
 msgstr ""
 
 msgid "Uptime"
-msgstr "Doba spustenia"
+msgstr ""
 
 msgid "Use <code>/etc/ethers</code>"
 msgstr ""
 
 msgid "Use DHCP gateway"
-msgstr "Použiť bránu DHCP"
+msgstr ""
 
 msgid "Use DNS servers advertised by peer"
 msgstr ""
@@ -3557,25 +3363,25 @@ msgid "Use broadcast flag"
 msgstr ""
 
 msgid "Use builtin IPv6-management"
-msgstr "Použiť zabudovanú správu IPv6"
+msgstr ""
 
 msgid "Use custom DNS servers"
-msgstr "Použiť vlastné servery DNS"
+msgstr ""
 
 msgid "Use default gateway"
 msgstr ""
 
 msgid "Use gateway metric"
-msgstr "Použiť metriku brány"
+msgstr ""
 
 msgid "Use routing table"
 msgstr ""
 
 msgid ""
 "Use the <em>Add</em> Button to add a new lease entry. The <em>MAC-Address</"
-"em> identifies the host, the <em>IPv4-Address</em> specifies the fixed "
-"address to use, and the <em>Hostname</em> is assigned as a symbolic name to "
-"the requesting host. The optional <em>Lease time</em> can be used to set non-"
+"em> indentifies the host, the <em>IPv4-Address</em> specifies to the fixed "
+"address to use and the <em>Hostname</em> is assigned as symbolic name to the "
+"requesting host. The optional <em>Lease time</em> can be used to set non-"
 "standard host-specific lease time, e.g. 12h, 3d or infinite."
 msgstr ""
 
@@ -3597,31 +3403,31 @@ msgid "User key (PEM encoded)"
 msgstr ""
 
 msgid "Username"
-msgstr "Používateľské meno"
+msgstr ""
 
 msgid "VC-Mux"
 msgstr ""
 
 msgid "VDSL"
-msgstr "VDSL"
+msgstr ""
 
 msgid "VLANs on %q"
-msgstr "Siete VLAN na %q"
+msgstr ""
 
 msgid "VLANs on %q (%s)"
 msgstr ""
 
 msgid "VPN Local address"
-msgstr "Miestna adresa siete VPN"
+msgstr ""
 
 msgid "VPN Local port"
-msgstr "Miestny port siete VPN"
+msgstr ""
 
 msgid "VPN Server"
-msgstr "Server VPN"
+msgstr ""
 
 msgid "VPN Server port"
-msgstr "Port servera VPN"
+msgstr ""
 
 msgid "VPN Server's certificate SHA1 hash"
 msgstr ""
@@ -3630,9 +3436,15 @@ msgid "VPNC (CISCO 3000 (and others) VPN)"
 msgstr ""
 
 msgid "Vendor"
-msgstr "Dodávateľ"
+msgstr ""
 
 msgid "Vendor Class to send when requesting DHCP"
+msgstr ""
+
+msgid "Verbose"
+msgstr ""
+
+msgid "Verbose logging by aiccu daemon"
 msgstr ""
 
 msgid "Verify"
@@ -3641,30 +3453,31 @@ msgstr ""
 msgid "Version"
 msgstr ""
 
-msgid "Virtual dynamic interface"
-msgstr "Virtuálne dynamické rozhranie"
-
 msgid "WDS"
-msgstr "WDS"
+msgstr ""
 
 msgid "WEP Open System"
 msgstr ""
 
 msgid "WEP Shared Key"
-msgstr "Zdieľaný kľúč WEP"
+msgstr ""
 
 msgid "WEP passphrase"
-msgstr "Heslo WEP"
+msgstr ""
 
 msgid "WMM Mode"
-msgstr "Režim WMM"
+msgstr ""
 
 msgid "WPA passphrase"
-msgstr "Heslo WPA"
+msgstr ""
 
 msgid ""
 "WPA-Encryption requires wpa_supplicant (for client mode) or hostapd (for AP "
 "and ad-hoc mode) to be installed."
+msgstr ""
+
+msgid ""
+"Wait for NTP sync that many seconds, seting to 0 disables waiting (optional)"
 msgstr ""
 
 msgid "Waiting for changes to be applied..."
@@ -3673,78 +3486,71 @@ msgstr ""
 msgid "Waiting for command to complete..."
 msgstr ""
 
-msgid "Waiting for configuration to be applied… %ds"
+msgid "Waiting for device..."
 msgstr ""
 
-msgid "Waiting for device..."
-msgstr "Čaká sa na zariadenie..."
-
 msgid "Warning"
-msgstr "Upozornenie"
+msgstr ""
 
 msgid "Warning: There are unsaved changes that will get lost on reboot!"
-msgstr "Varovanie: Existujú neuložené zmeny, ktoré sa pri reštarte stratia!"
+msgstr ""
 
-msgid ""
-"When using a PSK, the PMK can be automatically generated. When enabled, the "
-"R0/R1 key options below are not applied. Disable this to use the R0 and R1 "
-"key options."
+msgid "Whether to create an IPv6 default route over the tunnel"
+msgstr ""
+
+msgid "Whether to route only packets from delegated prefixes"
 msgstr ""
 
 msgid "Width"
-msgstr "Šírka"
+msgstr ""
 
 msgid "WireGuard VPN"
 msgstr ""
 
 msgid "Wireless"
-msgstr "Bezdrôtová sieť"
+msgstr ""
 
 msgid "Wireless Adapter"
-msgstr "Bezdrôtový adaptér"
+msgstr ""
 
 msgid "Wireless Network"
-msgstr "Bezdrôtová sieť"
+msgstr ""
 
 msgid "Wireless Overview"
-msgstr "Prehľad bezdrôtových sietí"
+msgstr ""
 
 msgid "Wireless Security"
-msgstr "Zabezpečenie bezdrôtovej siete"
+msgstr ""
 
-msgid "Wireless is disabled"
-msgstr "Bezdrôtová sieť je zakázaná"
-
-msgid "Wireless is not associated"
-msgstr "Bezdrôtová sieť nie je priradená"
+msgid "Wireless is disabled or not associated"
+msgstr ""
 
 msgid "Wireless is restarting..."
 msgstr ""
 
 msgid "Wireless network is disabled"
-msgstr "Bezdrôtová sieť je zakázaná"
+msgstr ""
 
 msgid "Wireless network is enabled"
-msgstr "Bezdrôtová sieť je povolená"
+msgstr ""
+
+msgid "Wireless restarted"
+msgstr ""
+
+msgid "Wireless shut down"
+msgstr ""
 
 msgid "Write received DNS requests to syslog"
 msgstr ""
 
 msgid "Write system log to file"
-msgstr "Zapísať systémový denník do súboru"
-
-msgid "Yes"
-msgstr "Áno"
+msgstr ""
 
 msgid ""
 "You can enable or disable installed init scripts here. Changes will applied "
 "after a device reboot.<br /><strong>Warning: If you disable essential init "
 "scripts like \"network\", your device might become inaccessible!</strong>"
 msgstr ""
-"Tu môžete povoliť alebo zakázať nainštalované iniciačné skripty. Zmeny sa "
-"vykonajú po reštarte zariadenia.<br /><strong>Varovanie: Ak zakážete "
-"základné iniciačné skripty, napríklad „sieť“, vaše zariadenie by sa mohlo "
-"stať neprístupným!</strong>"
 
 msgid ""
 "You must enable JavaScript in your browser or LuCI will not work properly."
@@ -3768,9 +3574,6 @@ msgstr ""
 msgid "bridged"
 msgstr ""
 
-msgid "create"
-msgstr ""
-
 msgid "create:"
 msgstr ""
 
@@ -3781,7 +3584,7 @@ msgid "dB"
 msgstr ""
 
 msgid "dBm"
-msgstr "dBm"
+msgstr ""
 
 msgid "disable"
 msgstr ""
@@ -3804,6 +3607,9 @@ msgid "full-duplex"
 msgstr ""
 
 msgid "half-duplex"
+msgstr ""
+
+msgid "help"
 msgstr ""
 
 msgid "hidden"
@@ -3830,10 +3636,10 @@ msgstr ""
 msgid "local <abbr title=\"Domain Name System\">DNS</abbr> file"
 msgstr ""
 
-msgid "minutes"
+msgid "minimum 1280, maximum 1480"
 msgstr ""
 
-msgid "mixed WPA/WPA2"
+msgid "minutes"
 msgstr ""
 
 msgid "no"
@@ -3857,13 +3663,7 @@ msgstr ""
 msgid "open"
 msgstr ""
 
-msgid "output"
-msgstr ""
-
 msgid "overlay"
-msgstr ""
-
-msgid "random"
 msgstr ""
 
 msgid "relay mode"
@@ -3885,28 +3685,28 @@ msgid "stateless + stateful"
 msgstr ""
 
 msgid "tagged"
-msgstr "označené"
+msgstr ""
 
 msgid "time units (TUs / 1.024 ms) [1000-65535]"
 msgstr ""
 
 msgid "unknown"
-msgstr "neznámy"
+msgstr ""
 
 msgid "unlimited"
-msgstr "neobmedzené"
+msgstr ""
 
 msgid "unspecified"
-msgstr "neurčené"
+msgstr ""
 
 msgid "unspecified -or- create:"
 msgstr ""
 
 msgid "untagged"
-msgstr "neoznačené"
+msgstr ""
 
 msgid "yes"
 msgstr ""
 
 msgid "« Back"
-msgstr "« Späť"
+msgstr ""

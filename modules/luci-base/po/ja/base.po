@@ -3,19 +3,15 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2009-06-10 03:40+0200\n"
-"PO-Revision-Date: 2020-06-16 16:09+0000\n"
-"Last-Translator: Satoru Yoshida <ramat@ram.ne.jp>\n"
-"Language-Team: Japanese <https://hosted.weblate.org/projects/openwrt/luci/ja/"
-">\n"
+"PO-Revision-Date: 2017-07-28 12:17+0900\n"
+"Last-Translator: INAGAKI Hiroshi <musashino.open@gmail.com>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.1.1-dev\n"
-
-msgid "%.1f dB"
-msgstr "%.1f dB"
+"X-Generator: Poedit 2.0.3\n"
+"Language-Team: \n"
 
 msgid "%s is untagged in multiple VLANs!"
 msgstr "%s は複数のVLANにUntaggedしています!"
@@ -50,9 +46,6 @@ msgstr "-- ラベルを指定 --"
 msgid "-- match by uuid --"
 msgstr "-- UUID を指定 --"
 
-msgid "-- please select --"
-msgstr "-- 選択してください --"
-
 msgid "1 Minute Load:"
 msgstr "過去1分の負荷:"
 
@@ -60,7 +53,7 @@ msgid "15 Minute Load:"
 msgstr "過去15分の負荷:"
 
 msgid "4-character hexadecimal ID"
-msgstr "4 文字かつ 16 進数の ID"
+msgstr ""
 
 msgid "464XLAT (CLAT)"
 msgstr "464XLAT (CLAT)"
@@ -69,13 +62,13 @@ msgid "5 Minute Load:"
 msgstr "過去5分の負荷:"
 
 msgid "6-octet identifier as a hex string - no colons"
-msgstr "16進数 6オクテットの識別子（コロンを含まない）"
+msgstr ""
 
 msgid "802.11r Fast Transition"
 msgstr "802.11r 高速ローミング"
 
 msgid "802.11w Association SA Query maximum timeout"
-msgstr "802.11w アソシエーションSAクエリの最大タイムアウト時間です"
+msgstr "802.11w アソシエーションSAクエリの最大タイムアウト時間です。"
 
 msgid "802.11w Association SA Query retry timeout"
 msgstr "802.11w アソシエーションSAクエリの再試行タイムアウト時間です。"
@@ -140,9 +133,6 @@ msgstr "<abbr title=\"Light Emitting Diode\">LED</abbr> 名"
 msgid "<abbr title=\"Media Access Control\">MAC</abbr>-Address"
 msgstr "<abbr title=\"Media Access Control\">MAC</abbr>-アドレス"
 
-msgid "<abbr title=\"The DHCP Unique Identifier\">DUID</abbr>"
-msgstr "<abbr title=\"The DHCP Unique Identifier\">DUID</abbr>"
-
 msgid ""
 "<abbr title=\"maximal\">Max.</abbr> <abbr title=\"Dynamic Host Configuration "
 "Protocol\">DHCP</abbr> leases"
@@ -160,6 +150,9 @@ msgstr ""
 msgid "<abbr title=\"maximal\">Max.</abbr> concurrent queries"
 msgstr "<abbr title=\"maximal\">最大</abbr> 並列処理クエリ"
 
+msgid "<abbr title='Pairwise: %s / Group: %s'>%s - %s</abbr>"
+msgstr ""
+
 msgid ""
 "<br/>Note: you need to manually restart the cron service if the crontab file "
 "was empty before editing."
@@ -168,25 +161,28 @@ msgstr ""
 "を行う必要があります。"
 
 msgid "A43C + J43 + A43"
-msgstr "A43C + J43 + A43"
+msgstr ""
 
 msgid "A43C + J43 + A43 + V43"
-msgstr "A43C + J43 + A43 + V43"
+msgstr ""
 
 msgid "ADSL"
 msgstr "ADSL"
 
+msgid "AICCU (SIXXS)"
+msgstr ""
+
 msgid "ANSI T1.413"
-msgstr "ANSI T1.413"
+msgstr ""
 
 msgid "APN"
 msgstr "APN"
 
 msgid "ARP retry threshold"
-msgstr "ARP 再試行しきい値"
+msgstr "ARP再試行しきい値"
 
 msgid "ATM (Asynchronous Transfer Mode)"
-msgstr "ATM（非同期転送モード）"
+msgstr ""
 
 msgid "ATM Bridges"
 msgstr "ATMブリッジ"
@@ -207,7 +203,10 @@ msgid "ATM device number"
 msgstr "ATMデバイス番号"
 
 msgid "ATU-C System Vendor ID"
-msgstr "ATU-C システム ベンダー ID"
+msgstr ""
+
+msgid "AYIYA"
+msgstr ""
 
 msgid "Access Concentrator"
 msgstr "Access Concentrator"
@@ -215,8 +214,14 @@ msgstr "Access Concentrator"
 msgid "Access Point"
 msgstr "アクセスポイント"
 
+msgid "Action"
+msgstr "動作"
+
 msgid "Actions"
-msgstr "操作"
+msgstr "動作"
+
+msgid "Activate this network"
+msgstr "このネットワークを有効にする"
 
 msgid "Active <abbr title=\"Internet Protocol Version 4\">IPv4</abbr>-Routes"
 msgstr ""
@@ -243,8 +248,6 @@ msgstr "追加"
 
 msgid "Add local domain suffix to names served from hosts files"
 msgstr ""
-"hosts ファイルにより解決される名前にローカルドメイン サフィックスを付加しま"
-"す。"
 
 msgid "Add new interface..."
 msgstr "インターフェースの新規作成..."
@@ -271,37 +274,21 @@ msgid "Aggregate Transmit Power(ACTATP)"
 msgstr ""
 
 msgid "Alert"
-msgstr "アラート"
-
-msgid "Alias Interface"
-msgstr "エイリアス インターフェース"
-
-msgid "Alias of \"%s\""
-msgstr "\"%s\" のエイリアス"
-
-msgid "All Servers"
-msgstr "全てのサーバー"
+msgstr "警告"
 
 msgid ""
 "Allocate IP addresses sequentially, starting from the lowest available "
 "address"
 msgstr ""
-"IP アドレスを連続的に並べ、利用可能な最小のアドレスから払い出しを開始します。"
 
 msgid "Allocate IP sequentially"
-msgstr "連続 IP"
+msgstr ""
 
 msgid "Allow <abbr title=\"Secure Shell\">SSH</abbr> password authentication"
 msgstr "<abbr title=\"Secure Shell\">SSH</abbr> パスワード認証を許可します。"
 
-msgid "Allow AP mode to disconnect STAs based on low ACK condition"
-msgstr "AP モード動作時に、低 ACK（確認応答）状態の STA の切断を許可します。"
-
 msgid "Allow all except listed"
 msgstr "リスト内の端末からのアクセスを禁止"
-
-msgid "Allow legacy 802.11b rates"
-msgstr "レガシー 802.11b レートを許可"
 
 msgid "Allow listed only"
 msgstr "リスト内の端末からのアクセスを許可"
@@ -311,7 +298,7 @@ msgstr "ローカルホストを許可する"
 
 msgid "Allow remote hosts to connect to local SSH forwarded ports"
 msgstr ""
-"リモートホストがSSH転送されたローカルのポートに接続することを許可します。"
+"リモートホストがSSH転送されたローカルのポートに接続することを許可します"
 
 msgid "Allow root logins with password"
 msgstr "パスワードでの root ログインを許可"
@@ -322,21 +309,17 @@ msgstr "パスワードを使用した <em>root</em> 権限でのログインを
 msgid ""
 "Allow upstream responses in the 127.0.0.0/8 range, e.g. for RBL services"
 msgstr ""
-"上位サーバーからの特定範囲内 (127.0.0.0/8) の応答を許可します。例: RBL サービ"
-"スのため"
 
 msgid "Allowed IPs"
 msgstr "許可されるIP"
 
-msgid "Always announce default router"
-msgstr "常にデフォルト ルーターを通知する"
-
 msgid ""
-"Always use 40MHz channels even if the secondary channel overlaps. Using this "
-"option does not comply with IEEE 802.11n-2009!"
+"Also see <a href=\"https://www.sixxs.net/faq/connectivity/?faq=comparison"
+"\">Tunneling Comparison</a> on SIXXS"
 msgstr ""
-"セカンダリ チャンネルの重複にかかわらず、常に 40MHz チャンネルを使用します。"
-"このオプションの使用は、 IEEE 802.11n-2009 に準拠しません！"
+
+msgid "Always announce default router"
+msgstr "常にデフォルト ルーターとして通知する"
 
 msgid "Annex"
 msgstr ""
@@ -389,13 +372,13 @@ msgstr ""
 "ます。"
 
 msgid "Announced DNS domains"
-msgstr "通知される DNS ドメイン"
+msgstr ""
 
 msgid "Announced DNS servers"
-msgstr "通知される DNS サーバー"
+msgstr ""
 
 msgid "Anonymous Identity"
-msgstr "匿名のアイデンティティ"
+msgstr ""
 
 msgid "Anonymous Mount"
 msgstr "アノニマス マウント"
@@ -415,35 +398,25 @@ msgstr "アンテナ設定"
 msgid "Any zone"
 msgstr "全てのゾーン"
 
-msgid "Apply request failed with status <code>%h</code>"
-msgstr "適用リクエストはステータス <code>%h</code> で失敗しました"
+msgid "Apply"
+msgstr "適用"
 
-msgid "Apply unchecked"
-msgstr "チェック無しの適用"
-
-msgid "Architecture"
-msgstr "アーキテクチャ"
+msgid "Applying changes"
+msgstr "変更を適用"
 
 msgid ""
 "Assign a part of given length of every public IPv6-prefix to this interface"
 msgstr ""
-"パブリック IPv6 プレフィクスのうち、指定されたプレフィクス長をこのインター"
-"フェースに割り当てます。"
 
 msgid "Assign interfaces..."
-msgstr "インターフェースの割当て..."
+msgstr ""
 
 msgid ""
 "Assign prefix parts using this hexadecimal subprefix ID for this interface."
 msgstr ""
-"このサブ プレフィクス ID（16進数）を使用するプレフィクス領域を、このインター"
-"フェースに割り当てます。"
 
 msgid "Associated Stations"
-msgstr "アソシエーション済み端末"
-
-msgid "Associations"
-msgstr "アソシエーション数"
+msgstr "認証済み端末"
 
 msgid "Auth Group"
 msgstr "認証グループ"
@@ -452,7 +425,7 @@ msgid "Authentication"
 msgstr "認証"
 
 msgid "Authentication Type"
-msgstr "認証タイプ"
+msgstr ""
 
 msgid "Authoritative"
 msgstr "Authoritative"
@@ -467,7 +440,7 @@ msgid "Automatic"
 msgstr "自動"
 
 msgid "Automatic Homenet (HNCP)"
-msgstr "自動ホームネット (HNCP)"
+msgstr ""
 
 msgid "Automatically check filesystem for errors before mounting"
 msgstr "マウント実行前にファイルシステムのエラーを自動的にチェックします。"
@@ -485,7 +458,7 @@ msgid "Automount Swap"
 msgstr "スワップ 自動マウント"
 
 msgid "Available"
-msgstr "利用可能"
+msgstr "使用可"
 
 msgid "Available packages"
 msgstr "インストール可能なパッケージ"
@@ -494,13 +467,13 @@ msgid "Average:"
 msgstr "平均値:"
 
 msgid "B43 + B43C"
-msgstr "B43 + B43C"
+msgstr ""
 
 msgid "B43 + B43C + V43"
-msgstr "B43 + B43C + V43"
+msgstr ""
 
 msgid "BR / DMR / AFTR"
-msgstr "BR / DMR / AFTR"
+msgstr ""
 
 msgid "BSSID"
 msgstr "BSSID"
@@ -520,11 +493,11 @@ msgstr "概要へ戻る"
 msgid "Back to scan results"
 msgstr "スキャン結果へ戻る"
 
-msgid "Backup"
-msgstr "バックアップ"
-
 msgid "Backup / Flash Firmware"
 msgstr "バックアップ / ファームウェア更新"
+
+msgid "Backup / Restore"
+msgstr "バックアップ / 復元"
 
 msgid "Backup file list"
 msgstr "バックアップファイル リスト"
@@ -533,10 +506,10 @@ msgid "Bad address specified!"
 msgstr "無効なアドレスです!"
 
 msgid "Band"
-msgstr "バンド"
+msgstr ""
 
-msgid "Beacon Interval"
-msgstr "ビーコン間隔"
+msgid "Behind NAT"
+msgstr ""
 
 msgid ""
 "Below is the determined list of files to backup. It consists of changed "
@@ -548,20 +521,20 @@ msgstr ""
 "ターンに一致したファイルの一覧です。"
 
 msgid "Bind interface"
-msgstr "インターフェースのバインド"
+msgstr ""
 
 msgid "Bind only to specific interfaces rather than wildcard address."
 msgstr ""
 "ワイルドカード アドレスではなく、特定のインターフェースのみにバインドします。"
 
 msgid "Bind the tunnel to this interface (optional)."
-msgstr "トンネルをこのインターフェースにバインドします（オプション）。"
+msgstr ""
 
 msgid "Bitrate"
 msgstr "ビットレート"
 
 msgid "Bogus NX Domain Override"
-msgstr "偽の NX ドメイン オーバーライド"
+msgstr ""
 
 msgid "Bridge"
 msgstr "ブリッジ"
@@ -588,17 +561,17 @@ msgid ""
 "Build/distribution specific feed definitions. This file will NOT be "
 "preserved in any sysupgrade."
 msgstr ""
-"ビルド / ディストリビューション固有のフィード定義です。このファイルは"
-"sysupgradeの際に引き継がれません。"
+"ビルド/ディストリビューション固有のフィード定義です。このファイルはsysupgrade"
+"の際に引き継がれません。"
+
+msgid "Buttons"
+msgstr "ボタン"
 
 msgid "CA certificate; if empty it will be saved after the first connection."
 msgstr "CA証明書（空白の場合、初回の接続後に保存されます。）"
 
 msgid "CPU usage (%)"
 msgstr "CPU使用率 (%)"
-
-msgid "Call failed"
-msgstr "呼び出しに失敗しました"
 
 msgid "Cancel"
 msgstr "キャンセル"
@@ -615,26 +588,16 @@ msgstr "変更"
 msgid "Changes applied."
 msgstr "変更が適用されました。"
 
-msgid "Changes have been reverted."
-msgstr "変更は取り消されました。"
-
 msgid "Changes the administrator password for accessing the device"
 msgstr "デバイスの管理者パスワードを変更します"
 
 msgid "Channel"
 msgstr "チャネル"
 
-msgid ""
-"Channel %d is not available in the %s regulatory domain and has been auto-"
-"adjusted to %d."
-msgstr ""
-"チャンネル %d は、 %s 領域内では規制により利用できません。%d へ自動調整されま"
-"した。"
-
 msgid "Check"
 msgstr "チェック"
 
-msgid "Check filesystems before mount"
+msgid "Check fileystems before mount"
 msgstr "マウント前にファイルシステムをチェックする"
 
 msgid "Check this option to delete the existing networks from this radio."
@@ -666,14 +629,17 @@ msgid "Cipher"
 msgstr "暗号化方式"
 
 msgid "Cisco UDP encapsulation"
-msgstr "Cisco UDP カプセル化"
+msgstr ""
 
 msgid ""
 "Click \"Generate archive\" to download a tar archive of the current "
-"configuration files."
+"configuration files. To reset the firmware to its initial state, click "
+"\"Perform reset\" (only possible with squashfs images)."
 msgstr ""
-"\"バックアップ アーカイブを生成\" をクリックすると、現在の設定ファイルをtar形"
-"式のアーカイブファイルとしてダウンロードします。"
+"\"バックアップ アーカイブの作成\"をクリックすると、現在の設定ファイルをtar形"
+"式のアーカイブファイルとしてダウンロードします。設定のリセットを行う場"
+"合、\"設定リセット\"をクリックしてください。(ただし、squashfsをお使いの場合の"
+"み使用可能です)"
 
 msgid "Client"
 msgstr "クライアント"
@@ -692,7 +658,7 @@ msgid "Close list..."
 msgstr "リストを閉じる"
 
 msgid "Collecting data..."
-msgstr "データを収集中..."
+msgstr "データ収集中です..."
 
 msgid "Command"
 msgstr "コマンド"
@@ -700,31 +666,14 @@ msgstr "コマンド"
 msgid "Common Configuration"
 msgstr "一般設定"
 
-msgid ""
-"Complicates key reinstallation attacks on the client side by disabling "
-"retransmission of EAPOL-Key frames that are used to install keys. This "
-"workaround might cause interoperability issues and reduced robustness of key "
-"negotiation especially in environments with heavy traffic load."
-msgstr ""
-"キーのインストールに使用される EAPOL キーフレームの再送信を無効にすることによ"
-"り、クライアント サイドの Key Reinstallation Attacks (KRACK) を困難にします。"
-"この回避策は、相互運用性の問題や、特に高負荷のトラフィック環境下におけるキー "
-"ネゴシエーションの信頼性低下の原因となることがあります。"
-
 msgid "Configuration"
 msgstr "設定"
 
-msgid "Configuration failed"
-msgstr "設定が失敗しました"
+msgid "Configuration applied."
+msgstr "設定を適用しました。"
 
 msgid "Configuration files will be kept."
 msgstr "設定ファイルは保持されます。"
-
-msgid "Configuration has been applied."
-msgstr "設定が適用されました。"
-
-msgid "Configuration has been rolled back!"
-msgstr "設定はロールバックされました！"
 
 msgid "Confirmation"
 msgstr "確認"
@@ -738,20 +687,11 @@ msgstr "接続中"
 msgid "Connection Limit"
 msgstr "接続制限"
 
-msgid "Connection attempt failed"
-msgstr "接続の試行が失敗しました"
+msgid "Connection to server fails when TLS cannot be used"
+msgstr "TLSが使用できないとき、サーバーへの接続は失敗します。"
 
 msgid "Connections"
-msgstr "接続数"
-
-msgid ""
-"Could not regain access to the device after applying the configuration "
-"changes. You might need to reconnect if you modified network related "
-"settings such as the IP address or wireless security credentials."
-msgstr ""
-"設定の変更を適用後、デバイスへのアクセスを回復できませんでした。もし IP アド"
-"レスや無線のセキュリティ認証情報などのネットワーク関連の設定を変更した場合、"
-"再接続が必要かもしれません。"
+msgstr "ネットワーク接続"
 
 msgid "Country"
 msgstr "国"
@@ -797,30 +737,29 @@ msgid "Custom feeds"
 msgstr "カスタム フィード"
 
 msgid ""
-"Custom files (certificates, scripts) may remain on the system. To prevent "
-"this, perform a factory-reset first."
-msgstr ""
-"カスタム ファイル（証明書, スクリプト）がシステムに残るかもしれません。これを"
-"防ぐには、まず最初に factory-reset を行います。"
-
-msgid ""
 "Customizes the behaviour of the device <abbr title=\"Light Emitting Diode"
 "\">LED</abbr>s if possible."
 msgstr ""
 "<abbr title=\"Light Emitting Diode\">LED</abbr> デバイスの挙動をカスタマイズ"
 "します。"
 
+msgid "DHCP Leases"
+msgstr "DHCPリース"
+
 msgid "DHCP Server"
 msgstr "DHCPサーバー"
 
 msgid "DHCP and DNS"
-msgstr "DHCP および DNS"
+msgstr "DHCP 及び DNS"
 
 msgid "DHCP client"
 msgstr "DHCP クライアント"
 
 msgid "DHCP-Options"
 msgstr "DHCPオプション"
+
+msgid "DHCPv6 Leases"
+msgstr "DHCPv6 リース"
 
 msgid "DHCPv6 client"
 msgstr "DHCPv6 クライアント"
@@ -838,16 +777,16 @@ msgid "DNS forwardings"
 msgstr "DNSフォワーディング"
 
 msgid "DNS-Label / FQDN"
-msgstr "DNS-ラベル / FQDN"
+msgstr ""
 
 msgid "DNSSEC"
 msgstr "DNSSEC"
 
 msgid "DNSSEC check unsigned"
-msgstr "DNSSEC 未署名チェック"
+msgstr ""
 
 msgid "DPD Idle Timeout"
-msgstr "DPD アイドル・タイムアウト"
+msgstr ""
 
 msgid "DS-Lite AFTR address"
 msgstr "DS-Lite AFTR アドレス"
@@ -859,16 +798,13 @@ msgid "DSL Status"
 msgstr "DSL ステータス"
 
 msgid "DSL line mode"
-msgstr "DSL 回線モード"
-
-msgid "DTIM Interval"
-msgstr "DTIM インターバル"
+msgstr ""
 
 msgid "DUID"
 msgstr "DUID"
 
 msgid "Data Rate"
-msgstr "データレート"
+msgstr ""
 
 msgid "Debug"
 msgstr "デバッグ"
@@ -876,14 +812,14 @@ msgstr "デバッグ"
 msgid "Default %d"
 msgstr "標準設定 %d"
 
-msgid "Default Route"
-msgstr "デフォルト ルート"
-
 msgid "Default gateway"
 msgstr "デフォルト ゲートウェイ"
 
 msgid "Default is stateless + stateful"
 msgstr "デフォルトは ステートレス + ステートフル です。"
+
+msgid "Default route"
+msgstr "デフォルト ルート"
 
 msgid "Default state"
 msgstr "標準状態"
@@ -905,11 +841,8 @@ msgstr "削除"
 msgid "Delete this network"
 msgstr "ネットワークを削除します"
 
-msgid "Delivery Traffic Indication Message Interval"
-msgstr "Delivery Traffic Indication Message インターバル"
-
 msgid "Description"
-msgstr "説明"
+msgstr "詳細"
 
 msgid "Design"
 msgstr "デザイン"
@@ -926,11 +859,8 @@ msgstr "デバイス設定"
 msgid "Device is rebooting..."
 msgstr "デバイスを再起動中です..."
 
-msgid "Device unreachable!"
-msgstr "デバイスに到達できません！"
-
-msgid "Device unreachable! Still waiting for device..."
-msgstr "デバイスに到達できません！まだデバイスを待っています..."
+msgid "Device unreachable"
+msgstr "デバイスに到達できません"
 
 msgid "Diagnostics"
 msgstr "診断機能"
@@ -957,26 +887,14 @@ msgstr "DNSセットアップを無効にする"
 msgid "Disable Encryption"
 msgstr "暗号化を無効にする"
 
-msgid "Disable this network"
-msgstr "このネットワークを無効にします"
-
 msgid "Disabled"
 msgstr "無効"
 
 msgid "Disabled (default)"
 msgstr "無効（デフォルト）"
 
-msgid "Disassociate On Low Acknowledgement"
-msgstr "低 Acknowledgement 時のアソシエーション解除"
-
 msgid "Discard upstream RFC1918 responses"
 msgstr "RFC1918の応答を破棄します"
-
-msgid "Disconnection attempt failed"
-msgstr "切断の試行が失敗しました"
-
-msgid "Dismiss"
-msgstr "閉じる"
 
 msgid "Displaying only packages containing"
 msgstr "右記の文字列を含んだパッケージのみを表示中"
@@ -985,7 +903,7 @@ msgid "Distance Optimization"
 msgstr "距離の最適化"
 
 msgid "Distance to farthest network member in meters."
-msgstr "最も遠い端末との距離（メートル）を設定してください。"
+msgstr "最も遠い端末との距離(メートル)を設定してください。"
 
 msgid "Distribution feeds"
 msgstr "ディストリビューション フィード"
@@ -1006,7 +924,7 @@ msgstr ""
 
 msgid "Do not cache negative replies, e.g. for not existing domains"
 msgstr ""
-"無効なリプライをキャッシュしません（例：存在しないドメインからの返答など）"
+"無効なリプライをキャッシュしません (例：存在しないドメインからの返答など)"
 
 msgid "Do not forward requests that cannot be answered by public name servers"
 msgstr "パブリック DNSサーバーが返答できなかったリクエストを転送しません"
@@ -1021,7 +939,7 @@ msgid "Domain whitelist"
 msgstr "ドメイン ホワイトリスト"
 
 msgid "Don't Fragment"
-msgstr "非フラグメント化"
+msgstr ""
 
 msgid ""
 "Don't forward <abbr title=\"Domain Name System\">DNS</abbr>-Requests without "
@@ -1030,17 +948,11 @@ msgstr ""
 "<abbr title=\"Domain Name System\">DNS</abbr>名の無い <abbr title=\"Domain "
 "Name System\">DNS</abbr>リクエストを転送しません"
 
-msgid "Down"
-msgstr "下へ"
-
 msgid "Download and install package"
 msgstr "パッケージのダウンロードとインストール"
 
 msgid "Download backup"
 msgstr "バックアップ アーカイブのダウンロード"
-
-msgid "Downstream SNR offset"
-msgstr ""
 
 msgid "Dropbear Instance"
 msgstr "Dropbear設定"
@@ -1070,10 +982,10 @@ msgstr ""
 "的リースのみを行います。"
 
 msgid "EA-bits length"
-msgstr "EA ビット長"
+msgstr ""
 
 msgid "EAP-Method"
-msgstr "EAP メソッド"
+msgstr "EAPメソッド"
 
 msgid "Edit"
 msgstr "編集"
@@ -1082,8 +994,6 @@ msgid ""
 "Edit the raw configuration data above to fix any error and hit \"Save\" to "
 "reload the page."
 msgstr ""
-"上記の設定データを直接編集してエラーを修正し、 \"保存\" ボタンを押してこの"
-"ページをリロードします。"
 
 msgid "Edit this interface"
 msgstr "インターフェースを編集"
@@ -1096,13 +1006,6 @@ msgstr "緊急"
 
 msgid "Enable"
 msgstr "有効"
-
-msgid ""
-"Enable <abbr title=\"Internet Group Management Protocol\">IGMP</abbr> "
-"snooping"
-msgstr ""
-"<abbr title=\"Internet Group Management Protocol\">IGMP</abbr> スヌーピングの"
-"有効化"
 
 msgid "Enable <abbr title=\"Spanning Tree Protocol\">STP</abbr>"
 msgstr "<abbr title=\"Spanning Tree Protocol\">STP</abbr>を有効にする"
@@ -1134,45 +1037,34 @@ msgstr "VLAN機能を有効にする"
 msgid "Enable WPS pushbutton, requires WPA(2)-PSK"
 msgstr "WPS プッシュボタンを有効化するには、WPA(2)-PSKが必要です。"
 
-msgid "Enable key reinstallation (KRACK) countermeasures"
-msgstr "Key Reinstallation (KRACK) 対策の有効化"
-
 msgid "Enable learning and aging"
 msgstr "ラーニング エイジング機能を有効にする"
 
 msgid "Enable mirroring of incoming packets"
-msgstr "受信パケットのミラーリングを有効化"
+msgstr ""
 
 msgid "Enable mirroring of outgoing packets"
-msgstr "送信パケットのミラーリングを有効化"
+msgstr ""
 
 msgid "Enable the DF (Don't Fragment) flag of the encapsulating packets."
-msgstr "カプセル化されたパケットの DF (Don't Fragment) フラグを有効にします。"
+msgstr ""
 
 msgid "Enable this mount"
 msgstr "マウント設定を有効にする"
-
-msgid "Enable this network"
-msgstr "このネットワークを有効にします"
 
 msgid "Enable this swap"
 msgstr "スワップ設定を有効にする"
 
 msgid "Enable/Disable"
-msgstr "有効 / 無効"
+msgstr "有効/無効"
 
 msgid "Enabled"
 msgstr "有効"
-
-msgid "Enables IGMP snooping on this bridge"
-msgstr "ブリッジの IGMP スヌーピングを有効にします"
 
 msgid ""
 "Enables fast roaming among access points that belong to the same Mobility "
 "Domain"
 msgstr ""
-"同一のモビリティ ドメイン（モビリティ グループ）に属するアクセスポイント間の"
-"高速ローミングを有効にします。"
 
 msgid "Enables the Spanning Tree Protocol on this bridge"
 msgstr "スパニングツリー プロトコルを有効にする"
@@ -1181,19 +1073,13 @@ msgid "Encapsulation mode"
 msgstr "カプセル化モード"
 
 msgid "Encryption"
-msgstr "暗号化"
+msgstr "暗号化モード"
 
 msgid "Endpoint Host"
 msgstr "エンドポイント ホスト"
 
 msgid "Endpoint Port"
 msgstr "エンドポイント ポート"
-
-msgid "Enter custom value"
-msgstr "カスタム値を入力"
-
-msgid "Enter custom values"
-msgstr "カスタム値を入力"
 
 msgid "Erasing..."
 msgstr "消去中..."
@@ -1246,18 +1132,6 @@ msgstr "外部システムログ・サーバー プロトコル"
 msgid "Extra SSH command options"
 msgstr "拡張 SSHコマンドオプション"
 
-msgid "FT over DS"
-msgstr ""
-
-msgid "FT over the Air"
-msgstr ""
-
-msgid "FT protocol"
-msgstr "FT プロトコル"
-
-msgid "Failed to confirm apply within %ds, waiting for rollback…"
-msgstr "%d 秒以内の適用を確認できませんでした。ロールバック中です…"
-
 msgid "File"
 msgstr "ファイル"
 
@@ -1275,9 +1149,6 @@ msgstr "プライベートフィルター"
 
 msgid "Filter useless"
 msgstr ""
-
-msgid "Finalizing failed"
-msgstr "ファイナライズに失敗しました"
 
 msgid ""
 "Find all currently attached filesystems and swap and replace configuration "
@@ -1299,7 +1170,7 @@ msgid "Firewall"
 msgstr "ファイアウォール"
 
 msgid "Firewall Mark"
-msgstr "ファイアウォール マーク"
+msgstr ""
 
 msgid "Firewall Settings"
 msgstr "ファイアウォール設定"
@@ -1334,21 +1205,18 @@ msgstr "更新中..."
 msgid "Force"
 msgstr "強制"
 
-msgid "Force 40MHz mode"
-msgstr "強制 40MHz モード"
-
 msgid "Force CCMP (AES)"
-msgstr "CCMP (AES)"
+msgstr "CCMP (AES) を使用"
 
 msgid "Force DHCP on this network even if another server is detected."
 msgstr ""
 "別のDHCPサーバーが検出された場合でも、DHCPサーバー機能を強制的に起動します。"
 
 msgid "Force TKIP"
-msgstr "TKIP"
+msgstr "TKIP を使用"
 
 msgid "Force TKIP and CCMP (AES)"
-msgstr "TKIP 及びCCMP (AES)"
+msgstr "TKIP 及びCCMP (AES) を使用"
 
 msgid "Force link"
 msgstr "強制リンク"
@@ -1357,7 +1225,7 @@ msgid "Force use of NAT-T"
 msgstr "NAT-Tの強制使用"
 
 msgid "Form token mismatch"
-msgstr "フォーム トークンの不一致"
+msgstr ""
 
 msgid "Forward DHCP traffic"
 msgstr "DHCPトラフィックを転送する"
@@ -1367,9 +1235,6 @@ msgstr ""
 
 msgid "Forward broadcast traffic"
 msgstr "ブロードキャスト トラフィックを転送する"
-
-msgid "Forward mesh peer traffic"
-msgstr ""
 
 msgid "Forwarding mode"
 msgstr "転送モード"
@@ -1388,10 +1253,10 @@ msgstr "ディスクの空き容量"
 
 msgid ""
 "Further information about WireGuard interfaces and peers at <a href=\"http://"
-"wireguard.com\">wireguard.com</a>."
+"wireguard.io\">wireguard.io</a>."
 msgstr ""
 "WireGuard インターフェースとピアについての詳細情報: <a href=\"http://"
-"wireguard.com\">wireguard.com</a>"
+"wireguard.io\">wireguard.io</a>"
 
 msgid "GHz"
 msgstr "GHz"
@@ -1401,9 +1266,6 @@ msgstr "GPRSのみ"
 
 msgid "Gateway"
 msgstr "ゲートウェイ"
-
-msgid "Gateway address is invalid"
-msgstr "無効なゲートウェイ アドレスです"
 
 msgid "Gateway ports"
 msgstr "ゲートウェイ ポート"
@@ -1420,11 +1282,8 @@ msgstr "opkgの一般設定"
 msgid "Generate Config"
 msgstr "コンフィグ生成"
 
-msgid "Generate PMK locally"
-msgstr "ローカルで PMK を生成"
-
 msgid "Generate archive"
-msgstr "バックアップ アーカイブを生成"
+msgstr "バックアップ アーカイブの作成"
 
 msgid "Generic 802.11%s Wireless Controller"
 msgstr "802.11%s 無線LANコントローラ"
@@ -1459,11 +1318,17 @@ msgstr "HE.net ユーザー名"
 msgid "HT mode (802.11n)"
 msgstr "HT モード (802.11n)"
 
+msgid "Handler"
+msgstr "ハンドラ"
+
 msgid "Hang Up"
 msgstr "再起動"
 
 msgid "Header Error Code Errors (HEC)"
 msgstr ""
+
+msgid "Heartbeat"
+msgstr "ハートビート"
 
 msgid ""
 "Here you can configure the basic aspects of your device like its hostname or "
@@ -1476,6 +1341,9 @@ msgid ""
 "authentication."
 msgstr "SSH公開鍵認証で使用するSSH公開鍵を1行づつペーストしてください。"
 
+msgid "Hermes 802.11b Wireless Controller"
+msgstr "Hermes 802.11b 無線LANコントローラ"
+
 msgid "Hide <abbr title=\"Extended Service Set Identifier\">ESSID</abbr>"
 msgstr "<abbr title=\"Extended Service Set Identifier\">ESSID</abbr>の隠匿"
 
@@ -1486,14 +1354,11 @@ msgid "Host entries"
 msgstr "ホスト エントリー"
 
 msgid "Host expiry timeout"
-msgstr "ホスト終了タイムアウト"
+msgstr ""
 
 msgid "Host-<abbr title=\"Internet Protocol Address\">IP</abbr> or Network"
 msgstr ""
 "ホスト<abbr title=\"Internet Protocol Address\">IP</abbr> または ネットワーク"
-
-msgid "Host-Uniq tag content"
-msgstr "Host-Uniq タグ"
 
 msgid "Hostname"
 msgstr "ホスト名"
@@ -1513,17 +1378,8 @@ msgstr "IKE DHグループ"
 msgid "IP Addresses"
 msgstr "IPアドレス"
 
-msgid "IP Protocol"
-msgstr "IP プロトコル"
-
 msgid "IP address"
 msgstr "IPアドレス"
-
-msgid "IP address in invalid"
-msgstr "無効な IP アドレスです"
-
-msgid "IP address is missing"
-msgstr "IP アドレスがありません"
 
 msgid "IPv4"
 msgstr "IPv4"
@@ -1531,8 +1387,8 @@ msgstr "IPv4"
 msgid "IPv4 Firewall"
 msgstr "IPv4 ファイアウォール"
 
-msgid "IPv4 Upstream"
-msgstr "IPv4 アップストリーム"
+msgid "IPv4 WAN Status"
+msgstr "IPv4 WAN ステータス"
 
 msgid "IPv4 address"
 msgstr "IPv4 アドレス"
@@ -1561,11 +1417,8 @@ msgstr "IPv4 プレフィクス"
 msgid "IPv4 prefix length"
 msgstr "IPv4 プレフィクス長"
 
-msgid "IPv4+IPv6"
-msgstr "IPv4+IPv6"
-
 msgid "IPv4-Address"
-msgstr "IPv4 アドレス"
+msgstr "IPv4-アドレス"
 
 msgid "IPv4-in-IPv4 (RFC2003)"
 msgstr "IPv4-in-IPv4 (RFC2003)"
@@ -1585,14 +1438,17 @@ msgstr "IPv6 設定"
 msgid "IPv6 ULA-Prefix"
 msgstr "IPv6 ULA-プレフィクス"
 
-msgid "IPv6 Upstream"
-msgstr "IPv6 アップストリーム"
+msgid "IPv6 WAN Status"
+msgstr "IPv6 WAN ステータス"
 
 msgid "IPv6 address"
 msgstr "IPv6 アドレス"
 
+msgid "IPv6 address delegated to the local tunnel endpoint (optional)"
+msgstr ""
+
 msgid "IPv6 assignment hint"
-msgstr "IPv6 割り当てヒント"
+msgstr ""
 
 msgid "IPv6 assignment length"
 msgstr "IPv6 割り当て長"
@@ -1616,10 +1472,10 @@ msgid "IPv6 suffix"
 msgstr "IPv6 サフィックス"
 
 msgid "IPv6-Address"
-msgstr "IPv6 アドレス"
+msgstr "IPv6-アドレス"
 
 msgid "IPv6-PD"
-msgstr "IPv6 PD"
+msgstr "IPv6-PD"
 
 msgid "IPv6-in-IPv4 (RFC4213)"
 msgstr "IPv6-in-IPv4 (RFC4213)"
@@ -1633,7 +1489,7 @@ msgstr "IPv6-over-IPv4 (6to4)"
 msgid "Identity"
 msgstr "識別子"
 
-msgid "If checked, 1DES is enabled"
+msgid "If checked, 1DES is enaled"
 msgstr ""
 
 msgid "If checked, encryption is disabled"
@@ -1652,7 +1508,7 @@ msgstr ""
 "マウントします。"
 
 msgid "If unchecked, no default route is configured"
-msgstr "チェックされていない場合、デフォルト ルートは構成されません"
+msgstr "チェックされていない場合、デフォルト ルートを設定しません"
 
 msgid "If unchecked, the advertised DNS server addresses are ignored"
 msgstr "チェックされていない場合、通知されたDNSサーバー アドレスを無視します"
@@ -1689,8 +1545,6 @@ msgid ""
 "In order to prevent unauthorized access to the system, your request has been "
 "blocked. Click \"Continue »\" below to return to the previous page."
 msgstr ""
-"システムへの未認証のアクセスを防ぐために、リクエストはブロックされました。以"
-"下の \"続行\" をクリックして、前のページに戻ります。"
 
 msgid "Inactivity timeout"
 msgstr "未使用時タイムアウト"
@@ -1700,9 +1554,6 @@ msgstr "受信:"
 
 msgid "Info"
 msgstr "情報"
-
-msgid "Initialization failure"
-msgstr "初期化失敗"
 
 msgid "Initscript"
 msgstr "起動スクリプト"
@@ -1715,8 +1566,6 @@ msgstr "インストール"
 
 msgid "Install iputils-traceroute6 for IPv6 traceroute"
 msgstr ""
-"IPv6 の traceroute を使用するには、 iputils-traceroute6 をインストールしま"
-"す。"
 
 msgid "Install package %q"
 msgstr "%q パッケージをインストールします"
@@ -1732,7 +1581,6 @@ msgstr "インターフェース"
 
 msgid "Interface %q device auto-migrated from %q to %q."
 msgstr ""
-"インターフェース %q のデバイスは、 %q から %q へ自動的に移行されました。"
 
 msgid "Interface Configuration"
 msgstr "インターフェース設定"
@@ -1741,13 +1589,22 @@ msgid "Interface Overview"
 msgstr "インターフェース一覧"
 
 msgid "Interface is reconnecting..."
-msgstr "インターフェースを再接続中..."
+msgstr "インターフェース再接続中..."
+
+msgid "Interface is shutting down..."
+msgstr "インターフェース終了中..."
 
 msgid "Interface name"
 msgstr "インターフェース名"
 
 msgid "Interface not present or not connected yet."
 msgstr "インターフェースが存在しないか、接続していません"
+
+msgid "Interface reconnected"
+msgstr "インターフェースの再接続"
+
+msgid "Interface shut down"
+msgstr "インターフェースの終了"
 
 msgid "Interfaces"
 msgstr "インターフェース"
@@ -1772,7 +1629,7 @@ msgstr ""
 "ユーザー名かパスワード、もしくは両方が不正です！もう一度入力してください。"
 
 msgid "Isolate Clients"
-msgstr "クライアント間の分離"
+msgstr ""
 
 msgid ""
 "It appears that you are trying to flash an image that does not fit into the "
@@ -1867,8 +1724,6 @@ msgstr "割り当て数"
 
 msgid "Limit DNS service to subnets interfaces on which we are serving DNS."
 msgstr ""
-"DNS サービスを、現在 DNS を提供しているサブネットのインターフェースに限定しま"
-"す。"
 
 msgid "Limit listening to these interfaces, and loopback."
 msgstr "待ち受けをこれらのインターフェースとループバックに制限します。"
@@ -1918,7 +1773,7 @@ msgid "List of domains to allow RFC1918 responses for"
 msgstr "RFC1918の応答を許可するリスト"
 
 msgid "List of hosts that supply bogus NX domain results"
-msgstr "NX ドメインの偽の結果として返されるホストのリストです。"
+msgstr ""
 
 msgid "Listen Interfaces"
 msgstr "待ち受けインターフェース"
@@ -1928,8 +1783,8 @@ msgstr "待ち受けポート"
 
 msgid "Listen only on the given interface or, if unspecified, on all"
 msgstr ""
-"指定されたインターフェースでのみ待ち受けを行います。設定しない場合はすべての"
-"インタフェースが対象です。"
+"指定したインターフェースでのみアクセスを有効にします。設定しない場合はすべて"
+"のインタフェースが対象です"
 
 msgid "Listening port for inbound DNS queries"
 msgstr "DNSクエリを受信するポート"
@@ -1943,9 +1798,6 @@ msgstr "システム平均負荷"
 msgid "Loading"
 msgstr "ロード中"
 
-msgid "Local IP address is invalid"
-msgstr "無効なローカル IP アドレスです"
-
 msgid "Local IP address to assign"
 msgstr "割り当てるローカル IPアドレス"
 
@@ -1956,7 +1808,7 @@ msgid "Local IPv6 address"
 msgstr "ローカル IPv6 アドレス"
 
 msgid "Local Service Only"
-msgstr "ローカルサービスのみ"
+msgstr ""
 
 msgid "Local Startup"
 msgstr "ローカル スタートアップ"
@@ -1971,8 +1823,6 @@ msgid ""
 "Local domain specification. Names matching this domain are never forwarded "
 "and are resolved from DHCP or hosts files only"
 msgstr ""
-"ローカル ドメインの定義です。このドメインに一致する名前は転送が行われず、 "
-"DHCP または hosts ファイルのみにより解決されます。"
 
 msgid "Local domain suffix appended to DHCP names and hosts file entries"
 msgstr ""
@@ -1986,8 +1836,6 @@ msgid ""
 "Localise hostname depending on the requesting subnet if multiple IPs are "
 "available"
 msgstr ""
-"複数の IP が利用可能な場合に、ホスト名をリクエスト中のサブネットによってロー"
-"カライズします"
 
 msgid "Localise queries"
 msgstr "ローカライズクエリ"
@@ -2002,7 +1850,7 @@ msgid "Log queries"
 msgstr "ログ クエリ"
 
 msgid "Logging"
-msgstr "ロギング"
+msgstr "ログ"
 
 msgid "Login"
 msgstr "ログイン"
@@ -2017,14 +1865,11 @@ msgid "Lowest leased address as offset from the network address."
 msgstr ""
 "ネットワークアドレスをオフセットとして、最小のアドレスを設定してください"
 
-msgid "MAC"
-msgstr "MAC"
-
 msgid "MAC-Address"
-msgstr "MAC アドレス"
+msgstr "MAC-アドレス"
 
 msgid "MAC-Address Filter"
-msgstr "MAC アドレス フィルタ"
+msgstr "MAC-アドレス フィルタ"
 
 msgid "MAC-Filter"
 msgstr "MAC-フィルタ"
@@ -2034,9 +1879,6 @@ msgstr "MAC-リスト"
 
 msgid "MAP / LW4over6"
 msgstr "MAP / LW4over6"
-
-msgid "MAP rule is invalid"
-msgstr "無効な MAP ルールです"
 
 msgid "MB/s"
 msgstr "MB/s"
@@ -2074,6 +1916,9 @@ msgstr "EDNS.0 UDP パケットサイズの許可される最大数"
 msgid "Maximum amount of seconds to wait for the modem to become ready"
 msgstr "モデムが準備完了状態になるまでの最大待ち時間"
 
+msgid "Maximum hold time"
+msgstr "最大保持時間"
+
 msgid ""
 "Maximum length of the name is 15 characters including the automatic protocol/"
 "bridge prefix (br-, 6in4-, pppoe- etc.)"
@@ -2082,10 +1927,10 @@ msgstr ""
 "6in4-, pppoe- など）と合わせて最大15文字です。"
 
 msgid "Maximum number of leased addresses."
-msgstr "リースされるアドレスの最大数です。"
+msgstr "リースするアドレスの最大数です"
 
 msgid "Mbit/s"
-msgstr "メガビット/秒"
+msgstr "Mbit/s"
 
 msgid "Memory"
 msgstr "メモリー"
@@ -2093,23 +1938,23 @@ msgstr "メモリー"
 msgid "Memory usage (%)"
 msgstr "メモリ使用率 (%)"
 
-msgid "Mesh Id"
-msgstr "メッシュ ID"
-
 msgid "Metric"
 msgstr "メトリック"
 
+msgid "Minimum hold time"
+msgstr "最短保持時間"
+
 msgid "Mirror monitor port"
-msgstr "ミラー監視ポート"
+msgstr ""
 
 msgid "Mirror source port"
-msgstr "ミラー元ポート"
+msgstr ""
 
 msgid "Missing protocol extension for proto %q"
 msgstr "プロトコル %qのプロトコル拡張が見つかりません"
 
 msgid "Mobility Domain"
-msgstr "モビリティ ドメイン"
+msgstr ""
 
 msgid "Mode"
 msgstr "モード"
@@ -2117,14 +1962,8 @@ msgstr "モード"
 msgid "Model"
 msgstr "モデル"
 
-msgid "Modem default"
-msgstr "モデム デフォルト"
-
 msgid "Modem device"
 msgstr "モデム デバイス"
-
-msgid "Modem information query failed"
-msgstr ""
 
 msgid "Modem init timeout"
 msgstr "モデム初期化タイムアウト"
@@ -2136,7 +1975,7 @@ msgid "Mount Entry"
 msgstr "マウント機能"
 
 msgid "Mount Point"
-msgstr "マウント・ポイント"
+msgstr "マウントポイント"
 
 msgid "Mount Points"
 msgstr "マウントポイント"
@@ -2170,10 +2009,10 @@ msgid "Mounted file systems"
 msgstr "マウント中のファイルシステム"
 
 msgid "Move down"
-msgstr "下へ移動"
+msgstr "下へ"
 
 msgid "Move up"
-msgstr "上へ移動"
+msgstr "上へ"
 
 msgid "Multicast address"
 msgstr "マルチキャスト アドレス"
@@ -2188,7 +2027,7 @@ msgid "NAT64 Prefix"
 msgstr "NAT64 プレフィクス"
 
 msgid "NCM"
-msgstr "NCM"
+msgstr ""
 
 msgid "NDP-Proxy"
 msgstr "NDP-プロキシ"
@@ -2198,6 +2037,9 @@ msgstr "NT ドメイン"
 
 msgid "NTP server candidates"
 msgstr "NTPサーバー候補"
+
+msgid "NTP sync time-out"
+msgstr "NTP 同期タイムアウト"
 
 msgid "Name"
 msgstr "名前"
@@ -2223,17 +2065,11 @@ msgstr "ネットワーク ユーティリティ"
 msgid "Network boot image"
 msgstr "ネットワークブート用イメージ"
 
-msgid "Network device is not present"
-msgstr "ネットワーク デバイスが存在しません"
-
 msgid "Network without interfaces."
-msgstr "インターフェースの無いネットワークです。"
+msgstr ""
 
 msgid "Next »"
 msgstr "次 »"
-
-msgid "No"
-msgstr "いいえ"
 
 msgid "No DHCP Server configured for this interface"
 msgstr "このインターフェースにはDHCPサーバーが設定されていません"
@@ -2249,9 +2085,6 @@ msgstr "ファイルが見つかりませんでした"
 
 msgid "No information available"
 msgstr "情報がありません"
-
-msgid "No matching prefix delegation"
-msgstr ""
 
 msgid "No negative cache"
 msgstr "ネガティブキャッシュを行なわない"
@@ -2271,9 +2104,6 @@ msgstr "パスワードが設定されていません!"
 msgid "No rules in this chain"
 msgstr "チェイン内にルールがありません"
 
-msgid "No scan results available yet..."
-msgstr "利用可能なスキャン結果はまだありません..."
-
 msgid "No zone assigned"
 msgstr "ゾーンが設定されていません"
 
@@ -2281,7 +2111,7 @@ msgid "Noise"
 msgstr "ノイズ"
 
 msgid "Noise Margin (SNR)"
-msgstr "ノイズマージン (SNR)"
+msgstr ""
 
 msgid "Noise:"
 msgstr "ノイズ:"
@@ -2299,10 +2129,10 @@ msgid "Normal"
 msgstr "標準"
 
 msgid "Not Found"
-msgstr "見つかりません"
+msgstr ""
 
 msgid "Not associated"
-msgstr ""
+msgstr "アソシエーションされていません"
 
 msgid "Not connected"
 msgstr "未接続"
@@ -2319,11 +2149,6 @@ msgstr "注意"
 msgid "Nslookup"
 msgstr "Nslookup"
 
-msgid "Number of cached DNS entries (max is 10000, 0 is no caching)"
-msgstr ""
-"キャッシュされる DNS エントリーの数です。（最大 10000 件。 0の場合はキャッ"
-"シュしません）"
-
 msgid "OK"
 msgstr "OK"
 
@@ -2331,13 +2156,10 @@ msgid "OPKG-Configuration"
 msgstr "OPKG-設定"
 
 msgid "Obfuscated Group Password"
-msgstr "難読化されたグループ・パスワード"
+msgstr ""
 
 msgid "Obfuscated Password"
-msgstr "難読化されたパスワード"
-
-msgid "Obtain IPv6-Address"
-msgstr "IPv6 アドレスの取得"
+msgstr ""
 
 msgid "Off-State Delay"
 msgstr "消灯時間"
@@ -2373,7 +2195,7 @@ msgid "One or more required fields have no value!"
 msgstr "1つ以上のフィールドに値が設定されていません！"
 
 msgid "Open list..."
-msgstr "リストを開く..."
+msgstr "リストを開く"
 
 msgid "OpenConnect (CISCO AnyConnect)"
 msgstr "OpenConnect (CISCO AnyConnect)"
@@ -2390,6 +2212,12 @@ msgstr "削除されるオプション"
 msgid "Optional"
 msgstr "オプション"
 
+msgid "Optional, specify to override default server (tic.sixxs.net)"
+msgstr ""
+
+msgid "Optional, use when the SIXXS account has more than one tunnel"
+msgstr ""
+
 msgid ""
 "Optional. 32-bit mark for outgoing encrypted packets. Enter value in hex, "
 "starting with <code>0x</code>."
@@ -2401,10 +2229,6 @@ msgid ""
 "server, use the suffix (like '::1') to form the IPv6 address ('a:b:c:d::1') "
 "for the interface."
 msgstr ""
-"IPv6 プレフィクス（例: 'a:b:c:d::'）を委任サーバーから受信する際、インター"
-"フェースの IPv6 アドレス ('a:b:c:d::1') を形成するために使用されるサフィック"
-"ス（例: '::1'）を指定します。（オプション）　使用できる値: 'eui64', "
-"'random', または '::1' や '::1:2' のような固定値"
 
 msgid ""
 "Optional. Base64-encoded preshared key. Adds in an additional layer of "
@@ -2412,9 +2236,6 @@ msgid ""
 msgstr ""
 
 msgid "Optional. Create routes for Allowed IPs for this peer."
-msgstr ""
-
-msgid "Optional. Description of peer."
 msgstr ""
 
 msgid ""
@@ -2462,10 +2283,10 @@ msgid "Override MTU"
 msgstr "MTUを上書きする"
 
 msgid "Override TOS"
-msgstr "TOS を上書き"
+msgstr ""
 
 msgid "Override TTL"
-msgstr "TTL を上書き"
+msgstr ""
 
 msgid "Override default interface name"
 msgstr "デフォルトのインターフェース名を上書きします。"
@@ -2481,7 +2302,7 @@ msgstr ""
 "ネットから計算されます。"
 
 msgid "Override the table used for internal routes"
-msgstr "内部経路情報に使用されるテーブルを上書きします。"
+msgstr ""
 
 msgid "Overview"
 msgstr "概要"
@@ -2500,9 +2321,6 @@ msgstr "PID"
 
 msgid "PIN"
 msgstr "PIN"
-
-msgid "PIN code rejected"
-msgstr "PIN コードが拒否されました"
 
 msgid "PMK R1 Push"
 msgstr ""
@@ -2526,10 +2344,10 @@ msgid "PPtP"
 msgstr "PPtP"
 
 msgid "PSID offset"
-msgstr "PSID オフセット"
+msgstr ""
 
 msgid "PSID-bits length"
-msgstr "PSID ビット長"
+msgstr ""
 
 msgid "PTM/EFM (Packet Transfer Mode)"
 msgstr ""
@@ -2547,7 +2365,7 @@ msgid "Packets"
 msgstr "パケット"
 
 msgid "Part of zone %q"
-msgstr "ゾーン %q の一部"
+msgstr "ゾーン %qの一部"
 
 msgid "Password"
 msgstr "パスワード"
@@ -2559,7 +2377,7 @@ msgid "Password of Private Key"
 msgstr "秘密鍵のパスワード"
 
 msgid "Password of inner Private Key"
-msgstr "秘密鍵のパスワード"
+msgstr ""
 
 msgid "Password successfully changed!"
 msgstr "パスワードを変更しました"
@@ -2568,31 +2386,31 @@ msgid "Password2"
 msgstr "パスワード2"
 
 msgid "Path to CA-Certificate"
-msgstr "CA 証明書へのパス"
+msgstr "CA証明書のパス"
 
 msgid "Path to Client-Certificate"
-msgstr "クライアント証明書へのパス"
-
-msgid "Path to Private Key"
-msgstr "秘密鍵へのパス"
-
-msgid "Path to inner CA-Certificate"
-msgstr "CA 証明書のパス"
-
-msgid "Path to inner Client-Certificate"
 msgstr "クライアント証明書のパス"
 
-msgid "Path to inner Private Key"
+msgid "Path to Private Key"
 msgstr "秘密鍵のパス"
+
+msgid "Path to executable which handles the button event"
+msgstr "ボタンイベントをハンドルする実行ファイルのパス"
+
+msgid "Path to inner CA-Certificate"
+msgstr ""
+
+msgid "Path to inner Client-Certificate"
+msgstr ""
+
+msgid "Path to inner Private Key"
+msgstr ""
 
 msgid "Peak:"
 msgstr "ピーク:"
 
 msgid "Peer IP address to assign"
-msgstr "割り当てるピア IP アドレス"
-
-msgid "Peer address is missing"
-msgstr "ピアのアドレスがありません"
+msgstr ""
 
 msgid "Peers"
 msgstr "ピア"
@@ -2634,16 +2452,16 @@ msgid "Port status:"
 msgstr "ポート ステータス:"
 
 msgid "Power Management Mode"
-msgstr "電力管理モード"
+msgstr ""
 
 msgid "Pre-emtive CRC errors (CRCP_P)"
 msgstr ""
 
 msgid "Prefer LTE"
-msgstr "LTE を優先"
+msgstr ""
 
 msgid "Prefer UMTS"
-msgstr "UMTS を優先"
+msgstr ""
 
 msgid "Prefix Delegated"
 msgstr "委任されたプレフィクス (PD)"
@@ -2663,6 +2481,9 @@ msgstr "これらのインターフェースでの待ち受けを停止します
 
 msgid "Prevents client-to-client communication"
 msgstr "クライアント同士の通信を制限します"
+
+msgid "Prism2/2.5/3 802.11b Wireless Controller"
+msgstr "Prism2/2.5/3 802.11b 無線LANコントローラ"
 
 msgid "Private Key"
 msgstr "秘密鍵"
@@ -2695,7 +2516,7 @@ msgid "Provide NTP server"
 msgstr "NTPサーバー機能を有効にする"
 
 msgid "Provide new network"
-msgstr "新しいネットワークを設定します"
+msgstr "新しいネットワークを設定する"
 
 msgid "Pseudo Ad-Hoc (ahdemo)"
 msgstr "擬似アドホック (ahdemo)"
@@ -2707,20 +2528,13 @@ msgid "Public prefix routed to this device for distribution to clients."
 msgstr ""
 
 msgid "QMI Cellular"
-msgstr "QMI セルラー"
+msgstr ""
 
 msgid "Quality"
 msgstr "クオリティ"
 
-msgid ""
-"Query all available upstream <abbr title=\"Domain Name System\">DNS</abbr> "
-"servers"
-msgstr ""
-"アップストリームの利用可能な全 <abbr title=\"Domain Name System\">DNS</abbr> "
-"サーバを問い合わせます"
-
 msgid "R0 Key Lifetime"
-msgstr "R0 キーの有効期間"
+msgstr ""
 
 msgid "R1 Key Holder"
 msgstr ""
@@ -2736,6 +2550,9 @@ msgstr "RX"
 
 msgid "RX Rate"
 msgstr "受信レート"
+
+msgid "RaLink 802.11%s Wireless Controller"
+msgstr "RaLink 802.11%s 無線LANコントローラ"
 
 msgid "Radius-Accounting-Port"
 msgstr "Radiusアカウントサーバー ポート番号"
@@ -2755,28 +2572,24 @@ msgstr "Radius認証秘密鍵"
 msgid "Radius-Authentication-Server"
 msgstr "Radius認証サーバー"
 
-msgid "Raw hex-encoded bytes. Leave empty unless your ISP require this"
-msgstr ""
-"16 進数でエンコードされた、生のバイト値です。 ISP がこれを必須としない場合、"
-"空欄のままにします。"
-
 msgid ""
 "Read <code>/etc/ethers</code> to configure the <abbr title=\"Dynamic Host "
 "Configuration Protocol\">DHCP</abbr>-Server"
 msgstr ""
-"<abbr title=\"Dynamic Host Configuration Protocol\">DHCP</abbr> サーバーの設"
-"定として <code>/etc/ethers</code> を読み込みます"
+"<abbr title=\"Dynamic Host Configuration Protocol\">DHCP</abbr>サーバーの設定"
+"として<code>/etc/ethers</code> をロードします"
 
 msgid ""
-"Really delete this interface? The deletion cannot be undone! You might lose "
-"access to this device if you are connected via this interface"
+"Really delete this interface? The deletion cannot be undone!\\nYou might "
+"lose access to this device if you are connected via this interface."
 msgstr ""
-"本当にこのインターフェースを削除しますか？一度削除すると、元に戻すことはでき"
-"ません！もしこのインターフェースを経由して接続している場合、このデバイスにア"
-"クセスできなくなる場合があります"
+"本当にこのインターフェースを削除しますか?一度削除すると、元に戻すことはできま"
+"せん!\n"
+"このインターフェースを経由して接続している場合、デバイスにアクセスできなくな"
+"る場合があります。"
 
 msgid ""
-"Really delete this wireless network? The deletion cannot be undone! You "
+"Really delete this wireless network? The deletion cannot be undone!\\nYou "
 "might lose access to this device if you are connected via this network."
 msgstr ""
 "本当にこの無線ネットワークを削除しますか?一度削除すると、元に戻すことはできま"
@@ -2786,6 +2599,22 @@ msgstr ""
 
 msgid "Really reset all changes?"
 msgstr "本当に全ての変更をリセットしますか?"
+
+msgid ""
+"Really shut down network?\\nYou might lose access to this device if you are "
+"connected via this interface."
+msgstr ""
+"本当にネットワークを停止しますか?\n"
+"このネットワークを経由して接続している場合、デバイスにアクセスできなくなる場"
+"合があります。"
+
+msgid ""
+"Really shutdown interface \"%s\" ?\\nYou might lose access to this device if "
+"you are connected via this interface."
+msgstr ""
+"本当にインターフェース \"%s\" を停止しますか?\n"
+"このインターフェースを経由して接続している場合、デバイスにアクセスできなくな"
+"る場合があります。"
 
 msgid "Really switch protocol?"
 msgstr "本当にプロトコルを切り替えますか?"
@@ -2806,7 +2635,7 @@ msgid "Realtime Wireless"
 msgstr "リアルタイム・無線LAN"
 
 msgid "Reassociation Deadline"
-msgstr "再アソシエーション制限時間"
+msgstr ""
 
 msgid "Rebind protection"
 msgstr "DNSリバインディング・プロテクション"
@@ -2830,7 +2659,10 @@ msgid "Recommended. IP addresses of the WireGuard interface."
 msgstr "WireGuard インターフェースのIPアドレスです。（推奨）"
 
 msgid "Reconnect this interface"
-msgstr "インターフェースを再接続します"
+msgstr "インターフェースの再接続"
+
+msgid "Reconnecting interface"
+msgstr "インターフェース再接続中"
 
 msgid "References"
 msgstr "参照カウンタ"
@@ -2866,10 +2698,13 @@ msgid "Replace wireless configuration"
 msgstr "無線設定を置換する"
 
 msgid "Request IPv6-address"
-msgstr "IPv6 アドレスのリクエスト"
+msgstr "IPv6-アドレスのリクエスト"
 
 msgid "Request IPv6-prefix of length"
-msgstr "リクエストする IPv6 プレフィクス長"
+msgstr "リクエストするIPv6-プレフィクス長"
+
+msgid "Require TLS"
+msgstr "TLSが必要"
 
 msgid "Required"
 msgstr "必須"
@@ -2900,14 +2735,12 @@ msgid ""
 "Requires upstream supports DNSSEC; verify unsigned domain responses really "
 "come from unsigned domains"
 msgstr ""
-"未署名のドメイン レスポンスが、本当にその未署名のドメインから来たものであるか"
-"検証します。上位サーバが DNSSEC をサポートしている必要があります。"
 
 msgid "Reset"
 msgstr "リセット"
 
 msgid "Reset Counters"
-msgstr "カウンタをリセット"
+msgstr "カウンタのリセット"
 
 msgid "Reset to defaults"
 msgstr "標準設定にリセット"
@@ -2922,13 +2755,7 @@ msgid "Restart"
 msgstr "再起動"
 
 msgid "Restart Firewall"
-msgstr "ファイアウォールを再起動"
-
-msgid "Restart radio interface"
-msgstr "無線インターフェースを再起動します"
-
-msgid "Restore"
-msgstr "復元"
+msgstr "ファイアウォールの再起動"
 
 msgid "Restore backup"
 msgstr "バックアップから復元する"
@@ -2938,15 +2765,6 @@ msgstr "パスワードを表示する/隠す"
 
 msgid "Revert"
 msgstr "元に戻す"
-
-msgid "Revert changes"
-msgstr "変更の取り消し"
-
-msgid "Revert request failed with status <code>%h</code>"
-msgstr "取り消しのリクエストはステータス <code>%h</code> で失敗しました"
-
-msgid "Reverting configuration…"
-msgstr "設定を元に戻しています…"
 
 msgid "Root"
 msgstr "ルート"
@@ -2962,6 +2780,9 @@ msgstr ""
 
 msgid "Route type"
 msgstr "ルート タイプ"
+
+msgid "Routed IPv6 prefix for downstream interfaces"
+msgstr ""
 
 msgid "Router Advertisement-Service"
 msgstr "ルーター アドバタイズメント-サービス"
@@ -2988,11 +2809,19 @@ msgstr "ファイルシステムチェックを行う"
 msgid "SHA256"
 msgstr "SHA256"
 
+msgid ""
+"SIXXS supports TIC only, for static tunnels using IP protocol 41 (RFC4213) "
+"use 6in4 instead"
+msgstr ""
+
+msgid "SIXXS-handle[/Tunnel-ID]"
+msgstr ""
+
 msgid "SNR"
 msgstr "SNR"
 
 msgid "SSH Access"
-msgstr "SSH アクセス"
+msgstr "SSHアクセス"
 
 msgid "SSH server address"
 msgstr "SSH サーバーアドレス"
@@ -3004,7 +2833,7 @@ msgid "SSH username"
 msgstr "SSH ユーザー名"
 
 msgid "SSH-Keys"
-msgstr "SSH キー"
+msgstr "SSHキー"
 
 msgid "SSID"
 msgstr "SSID"
@@ -3015,11 +2844,11 @@ msgstr "保存"
 msgid "Save & Apply"
 msgstr "保存 & 適用"
 
+msgid "Save &#38; Apply"
+msgstr "保存 &#38; 適用"
+
 msgid "Scan"
 msgstr "スキャン"
-
-msgid "Scan request failed"
-msgstr "スキャン要求が失敗しました"
 
 msgid "Scheduled Tasks"
 msgstr "スケジュールタスク"
@@ -3046,6 +2875,17 @@ msgstr "クライアントの分離"
 msgid "Server Settings"
 msgstr "サーバー設定"
 
+msgid "Server password"
+msgstr "サーバー パスワード"
+
+msgid ""
+"Server password, enter the specific password of the tunnel when the username "
+"contains the tunnel ID"
+msgstr ""
+
+msgid "Server username"
+msgstr "サーバー ユーザー名"
+
 msgid "Service Name"
 msgstr "サービス名"
 
@@ -3055,9 +2895,6 @@ msgstr "サービスタイプ"
 msgid "Services"
 msgstr "サービス"
 
-msgid "Set VPN as Default Route"
-msgstr "VPN をデフォルト ルートとして設定します。"
-
 msgid ""
 "Set interface properties regardless of the link carrier (If set, carrier "
 "sense events do not invoke hotplug handlers)."
@@ -3065,12 +2902,6 @@ msgstr ""
 
 msgid "Set up Time Synchronization"
 msgstr "時刻同期設定"
-
-msgid "Setting PLMN failed"
-msgstr "PLMN の設定に失敗しました"
-
-msgid "Setting operation mode failed"
-msgstr "操作モードの設定に失敗しました"
 
 msgid "Setup DHCP Server"
 msgstr "DHCPサーバーを設定"
@@ -3081,14 +2912,14 @@ msgstr ""
 msgid "Short GI"
 msgstr "Short GI"
 
-msgid "Short Preamble"
-msgstr "Short Preamble"
-
 msgid "Show current backup file list"
 msgstr "現在のバックアップファイルのリストを表示する"
 
 msgid "Shutdown this interface"
-msgstr "インターフェースを終了します"
+msgstr "インターフェースを終了"
+
+msgid "Shutdown this network"
+msgstr "ネットワークを終了"
 
 msgid "Signal"
 msgstr "信号強度"
@@ -3104,9 +2935,6 @@ msgstr "サイズ"
 
 msgid "Size (.ipk)"
 msgstr "サイズ (.ipk)"
-
-msgid "Size of DNS query cache"
-msgstr "DNS クエリ キャッシュのサイズ"
 
 msgid "Skip"
 msgstr "スキップ"
@@ -3124,10 +2952,10 @@ msgid "Software"
 msgstr "ソフトウェア"
 
 msgid "Software VLAN"
-msgstr "ソフトウェア VLAN"
+msgstr ""
 
 msgid "Some fields are invalid, cannot save values!"
-msgstr "無効な値が設定されているフィールドがあるため、保存できません！"
+msgstr "無効な値が設定されているフィールドがあるため、保存できません。"
 
 msgid "Sorry, the object you requested was not found."
 msgstr "申し訳ありません。リクエストされたオブジェクトは見つかりませんでした。"
@@ -3144,8 +2972,17 @@ msgstr ""
 "ファームウェア更新は手動で行っていただく必要があります。wikiを参照して、この"
 "デバイスのインストール手順を参照してください。"
 
+msgid "Sort"
+msgstr "ソート"
+
 msgid "Source"
 msgstr "送信元"
+
+msgid "Source routing"
+msgstr ""
+
+msgid "Specifies the button state to handle"
+msgstr ""
 
 msgid "Specifies the directory the device is attached to"
 msgstr "デバイスが接続するディレクトリを設定します"
@@ -3157,29 +2994,24 @@ msgid ""
 "Specifies the maximum amount of failed ARP requests until hosts are presumed "
 "to be dead"
 msgstr ""
-"ホストが死亡しているとみなされるまでの ARP リクエスト失敗回数を指定します。"
 
 msgid ""
 "Specifies the maximum amount of seconds after which hosts are presumed to be "
 "dead"
-msgstr "ホストが死亡しているとみなされるまでの秒数を指定します。"
+msgstr ""
 
 msgid "Specify a TOS (Type of Service)."
-msgstr "TOS (Type of Service) を指定します。"
+msgstr ""
 
 msgid ""
 "Specify a TTL (Time to Live) for the encapsulating packet other than the "
 "default (64)."
 msgstr ""
-"デフォルト値 (64) 以外のカプセル化パケットの TTL (Time to Live) を指定しま"
-"す。"
 
 msgid ""
 "Specify an MTU (Maximum Transmission Unit) other than the default (1280 "
 "bytes)."
 msgstr ""
-"デフォルト値 (1280 bytes) 以外の MTU (Maximum Transmission Unit) を指定しま"
-"す。"
 
 msgid "Specify the secret encryption key here."
 msgstr "暗号鍵を設定します。"
@@ -3189,12 +3021,6 @@ msgstr "開始"
 
 msgid "Start priority"
 msgstr "優先順位"
-
-msgid "Starting configuration apply…"
-msgstr "設定の適用を開始しています…"
-
-msgid "Starting wireless scan..."
-msgstr "無線LANのスキャンを開始しています..."
 
 msgid "Startup"
 msgstr "スタートアップ"
@@ -3236,10 +3062,10 @@ msgid "Submit"
 msgstr "送信"
 
 msgid "Suppress logging"
-msgstr "ログの抑制"
+msgstr ""
 
 msgid "Suppress logging of the routine operation of these protocols"
-msgstr "これらのプロトコルの、ルーチン的操作についてのログを抑制します。"
+msgstr ""
 
 msgid "Swap"
 msgstr "スワップ"
@@ -3259,14 +3085,9 @@ msgstr "スイッチ %q (%s)"
 msgid ""
 "Switch %q has an unknown topology - the VLAN settings might not be accurate."
 msgstr ""
-"スイッチ %q は不明なトポロジを持っています - VLAN 設定は正確ではないかもしれ"
-"ません。"
-
-msgid "Switch Port Mask"
-msgstr "スイッチポート マスク"
 
 msgid "Switch VLAN"
-msgstr "スイッチ VLAN"
+msgstr ""
 
 msgid "Switch protocol"
 msgstr "プロトコルの切り替え"
@@ -3348,8 +3169,6 @@ msgstr ""
 msgid ""
 "The IPv6 prefix assigned to the provider, usually ends with <code>::</code>"
 msgstr ""
-"プロバイダに割り当てられる IPv6 プレフィクスです。通常、 <code>::</code> で終"
-"わります。"
 
 msgid ""
 "The allowed characters are: <code>A-Z</code>, <code>a-z</code>, <code>0-9</"
@@ -3358,34 +3177,15 @@ msgstr ""
 "使用可能な文字は右記の通りです: <code>A-Z</code>, <code>a-z</code>, "
 "<code>0-9</code>, <code>_</code>"
 
-msgid "The backup archive does not appear to be a valid gzip file."
-msgstr ""
-
 msgid "The configuration file could not be loaded due to the following error:"
-msgstr "設定ファイルは以下のエラーにより読み込めませんでした:"
-
-msgid ""
-"The device could not be reached within %d seconds after applying the pending "
-"changes, which caused the configuration to be rolled back for safety "
-"reasons. If you believe that the configuration changes are correct "
-"nonetheless, perform an unchecked configuration apply. Alternatively, you "
-"can dismiss this warning and edit changes before attempting to apply again, "
-"or revert all pending changes to keep the currently working configuration "
-"state."
 msgstr ""
-"保留されている変更を適用後、デバイスへのアクセスが %d 秒以内に到達することが"
-"できませんでした。これは、安全上の理由によりロールバックされる設定に起因する"
-"ものです。もしそれでも設定の変更が正しいと思われる場合は、チェック無しの変更"
-"の適用を行ってください。もしくは、再度の適用を試行する前にこの警告を閉じて設"
-"定内容の編集を行うか、現在動作している設定の状態を維持するために、未適用の変"
-"更を取り消すこともできます。"
 
 msgid ""
 "The device file of the memory or partition (<abbr title=\"for example\">e.g."
 "</abbr> <code>/dev/sda1</code>)"
 msgstr ""
-"デバイスファイルまたはパーティション（<abbr title=\"for example\">例</abbr> "
-"<code>/dev/sda1</code>）"
+"デバイスファイルまたはパーティション(<abbr title=\"for example\">例</abbr> "
+"<code>/dev/sda1</code>)"
 
 msgid ""
 "The filesystem that was used to format the memory (<abbr title=\"for example"
@@ -3404,6 +3204,9 @@ msgstr ""
 "更新用イメージがアップロードされました。以下はそのチェックサム及びファイルサ"
 "イズです。オリジナルファイルと比較し、整合性を確認してください。<br />\"続行"
 "\"ボタンをクリックすると、更新処理を開始します。"
+
+msgid "The following changes have been committed"
+msgstr "以下の変更が適用されました"
 
 msgid "The following changes have been reverted"
 msgstr "以下の変更が取り消されました"
@@ -3425,10 +3228,9 @@ msgid ""
 "The length of the IPv4 prefix in bits, the remainder is used in the IPv6 "
 "addresses."
 msgstr ""
-"IPv4 プレフィクスの長さ (bit) です。残りは IPv6 アドレスで使用されます。"
 
 msgid "The length of the IPv6 prefix in bits"
-msgstr "IPv6 プレフィクスの長さ (bit) です。"
+msgstr ""
 
 msgid "The local IPv4 address over which the tunnel is created (optional)."
 msgstr ""
@@ -3441,18 +3243,12 @@ msgid ""
 "segments. Often there is by default one Uplink port for a connection to the "
 "next greater network like the internet and other ports for a local network."
 msgstr ""
-"ネットワーク ポートは、コンピュータが他と直接通信することができる複数の "
-"<abbr title=\"Virtual Local Area Network\">VLAN</abbr> にまとめることができま"
-"す。 <abbr title=\"Virtual Local Area Network\">VLAN</abbr> は、異なるネット"
-"ワーク セグメントの分離にしばしば用いられます。通常、インターネットなどより上"
-"位のネットワークへの接続に使用するアップリンク ポートと、ローカル ネットワー"
-"ク用のその他のポートが存在します。"
 
 msgid "The selected protocol needs a device assigned"
 msgstr "選択中のプロトコルを使用する場合、デバイスを設定する必要があります"
 
 msgid "The submitted security token is invalid or already expired!"
-msgstr "送信されたセキュリティ トークンは無効もしくは期限切れです！"
+msgstr ""
 
 msgid ""
 "The system is erasing the configuration partition now and will reboot itself "
@@ -3471,6 +3267,11 @@ msgstr ""
 "ればならない場合があります。"
 
 msgid ""
+"The tunnel end-point is behind NAT, defaults to disabled and only applies to "
+"AYIYA"
+msgstr ""
+
+msgid ""
 "The uploaded image file does not contain a supported format. Make sure that "
 "you choose the generic image format for your platform."
 msgstr ""
@@ -3481,8 +3282,8 @@ msgstr ""
 msgid "There are no active leases."
 msgstr "リース中のIPアドレスはありません。"
 
-msgid "There are no changes to apply."
-msgstr "適用する変更はありません。"
+msgid "There are no pending changes to apply!"
+msgstr "適用が未完了の変更はありません！"
 
 msgid "There are no pending changes to revert!"
 msgstr "復元が未完了の変更はありません！"
@@ -3505,16 +3306,13 @@ msgstr ""
 "サービスを有効にするために、管理者パスワードを設定してください。"
 
 msgid "This IPv4 address of the relay"
-msgstr "リレーの IPv4 アドレス"
+msgstr ""
 
 msgid ""
 "This file may contain lines like 'server=/domain/1.2.3.4' or "
 "'server=1.2.3.4' fordomain-specific or full upstream <abbr title=\"Domain "
 "Name System\">DNS</abbr> servers."
 msgstr ""
-"このファイルは、特定ドメイン用、または上位 <abbr title=\"Domain Name System"
-"\">DNS</abbr> サーバーのための 'server=/domain/1.2.3.4' や 'server=1.2.3.4' "
-"というような行を含めることができます。"
 
 msgid ""
 "This is a list of shell glob patterns for matching files and directories to "
@@ -3539,17 +3337,17 @@ msgstr ""
 
 msgid ""
 "This is the local endpoint address assigned by the tunnel broker, it usually "
-"ends with <code>...:2/64</code>"
+"ends with <code>:2</code>"
 msgstr ""
 "プロバイダからアサインされた、ローカルのエンドポイント アドレスです。通常、"
-"<code>...:2/64</code>が終端に設定されます。"
+"<code>:2</code>が終端に設定されます。"
 
 msgid ""
 "This is the only <abbr title=\"Dynamic Host Configuration Protocol\">DHCP</"
 "abbr> in the local network"
 msgstr ""
-"これはローカル ネットワーク内で唯一の <abbr title=\"Dynamic Host "
-"Configuration Protocol\">DHCP</abbr> です。"
+"ローカル ネットワーク内のみの <abbr title=\"Dynamic Host Configuration "
+"Protocol\">DHCP</abbr>として使用する"
 
 msgid "This is the plain username for logging into the account"
 msgstr ""
@@ -3574,11 +3372,14 @@ msgstr ""
 "このリストは現在システムで動作しているプロセスとそのステータスを表示していま"
 "す。"
 
+msgid "This page allows the configuration of custom button actions"
+msgstr "このページでは、ボタンの動作を変更することができます。"
+
 msgid "This page gives an overview over currently active network connections."
 msgstr "このページでは、現在アクティブなネットワーク接続を表示します。"
 
 msgid "This section contains no values yet"
-msgstr "このセクションは未設定です"
+msgstr "このセクションは未設定です。"
 
 msgid "Time Synchronization"
 msgstr "時刻設定"
@@ -3591,12 +3392,10 @@ msgstr "タイムゾーン"
 
 msgid ""
 "To restore configuration files, you can upload a previously generated backup "
-"archive here. To reset the firmware to its initial state, click \"Perform "
-"reset\" (only possible with squashfs images)."
+"archive here."
 msgstr ""
 "設定を復元するには、作成しておいたバックアップ アーカイブをアップロードしてく"
-"ださい。設定のリセットを行う場合、\"設定リセット\"をクリックしてください。(た"
-"だし、squashfsをお使いの場合のみ使用可能です)"
+"ださい。"
 
 msgid "Tone"
 msgstr ""
@@ -3640,6 +3439,15 @@ msgstr "トンネルインターフェース"
 msgid "Tunnel Link"
 msgstr "トンネルリンク"
 
+msgid "Tunnel broker protocol"
+msgstr "トンネルブローカー プロトコル"
+
+msgid "Tunnel setup server"
+msgstr "トンネルセットアップ サーバー"
+
+msgid "Tunnel type"
+msgstr "トンネルタイプ"
+
 msgid "Tx-Power"
 msgstr "送信電力"
 
@@ -3664,26 +3472,8 @@ msgstr "USB ポート"
 msgid "UUID"
 msgstr "UUID"
 
-msgid "Unable to determine device name"
-msgstr "デバイス名を確定できません"
-
-msgid "Unable to determine external IP address"
-msgstr "外部 IP アドレスを確定できません"
-
-msgid "Unable to determine upstream interface"
-msgstr "アップストリーム インターフェースを確定できません"
-
 msgid "Unable to dispatch"
-msgstr "ディスパッチできません"
-
-msgid "Unable to obtain client ID"
-msgstr "クライアント ID を取得できません"
-
-msgid "Unable to resolve AFTR host name"
-msgstr "AFTR ホスト名を解決できません"
-
-msgid "Unable to resolve peer host name"
-msgstr "ピアのホスト名を解決できません"
+msgstr ""
 
 msgid "Unavailable Seconds (UAS)"
 msgstr ""
@@ -3694,9 +3484,6 @@ msgstr "不明"
 msgid "Unknown Error, password not changed!"
 msgstr "不明なエラーです。パスワードは変更されていません！"
 
-msgid "Unknown error (%s)"
-msgstr "不明なエラー (%s)"
-
 msgid "Unmanaged"
 msgstr "Unmanaged"
 
@@ -3706,17 +3493,8 @@ msgstr "アンマウント"
 msgid "Unsaved Changes"
 msgstr "保存されていない変更"
 
-msgid "Unsupported MAP type"
-msgstr "非対応の MAP タイプです"
-
-msgid "Unsupported modem"
-msgstr "サポートされていないモデム"
-
 msgid "Unsupported protocol type."
 msgstr "サポートされていないプロトコルタイプ"
-
-msgid "Up"
-msgstr "上へ"
 
 msgid "Update lists"
 msgstr "リストの更新"
@@ -3738,7 +3516,7 @@ msgid "Uploaded File"
 msgstr "アップロード完了"
 
 msgid "Uptime"
-msgstr "稼働時間"
+msgstr "起動時間"
 
 msgid "Use <code>/etc/ethers</code>"
 msgstr "<code>/etc/ethers</code> を使用する"
@@ -3768,7 +3546,7 @@ msgid "Use broadcast flag"
 msgstr "ブロードキャスト フラグを使用する"
 
 msgid "Use builtin IPv6-management"
-msgstr "ビルトインの IPv6 マネジメントを使用する"
+msgstr "ビルトインのIPv6-マネジメントを使用する"
 
 msgid "Use custom DNS servers"
 msgstr "DNSサーバーを手動で設定"
@@ -3780,21 +3558,19 @@ msgid "Use gateway metric"
 msgstr "ゲートウェイ メトリックを使用する"
 
 msgid "Use routing table"
-msgstr "ルーティング テーブルの使用"
+msgstr ""
 
 msgid ""
 "Use the <em>Add</em> Button to add a new lease entry. The <em>MAC-Address</"
-"em> identifies the host, the <em>IPv4-Address</em> specifies the fixed "
-"address to use, and the <em>Hostname</em> is assigned as a symbolic name to "
-"the requesting host. The optional <em>Lease time</em> can be used to set non-"
+"em> indentifies the host, the <em>IPv4-Address</em> specifies to the fixed "
+"address to use and the <em>Hostname</em> is assigned as symbolic name to the "
+"requesting host. The optional <em>Lease time</em> can be used to set non-"
 "standard host-specific lease time, e.g. 12h, 3d or infinite."
 msgstr ""
-"新しいリース エントリーを作成するには、 <em>追加</em> ボタンを押してくださ"
-"い。<em>MAC アドレス</em> はそのホストを識別し、 <em>IPv4 アドレス</em> には"
-"払いだす固定のアドレスを指定します。また、<em>ホスト名</em> はそのホストに対"
-"して一時的なホスト名をアサインします。 <em>リース時間</em> はオプションであ"
-"り、個々のホストに通常とは異なるリース時間を設定するために使用できます。"
-"（例: 12h, 3d, または infinite）"
+"<em>追加</em> ボタンを押して、新しくエントリーを作成してください。<em>MAC-ア"
+"ドレス</em> はそのホストを識別し, <em>IPv4-アドレス</em> には払いだす固定のア"
+"ドレスを設定します。また、<em>ホスト名</em> はそのホストに対して一時的なホス"
+"ト名をアサインします。"
 
 msgid "Used"
 msgstr "使用"
@@ -3808,10 +3584,10 @@ msgid ""
 msgstr ""
 
 msgid "User certificate (PEM encoded)"
-msgstr "ユーザー証明書（PEM エンコード）"
+msgstr ""
 
 msgid "User key (PEM encoded)"
-msgstr "ユーザー秘密鍵（PEM エンコード）"
+msgstr ""
 
 msgid "Username"
 msgstr "ユーザー名"
@@ -3823,7 +3599,7 @@ msgid "VDSL"
 msgstr "VDSL"
 
 msgid "VLANs on %q"
-msgstr "%q上のVLAN"
+msgstr "%q上のVLANs"
 
 msgid "VLANs on %q (%s)"
 msgstr "%q上のVLAN (%s)"
@@ -3852,14 +3628,17 @@ msgstr "ベンダー"
 msgid "Vendor Class to send when requesting DHCP"
 msgstr "DHCPリクエスト送信時のベンダークラスを設定"
 
+msgid "Verbose"
+msgstr ""
+
+msgid "Verbose logging by aiccu daemon"
+msgstr ""
+
 msgid "Verify"
 msgstr "確認"
 
 msgid "Version"
 msgstr "バージョン"
-
-msgid "Virtual dynamic interface"
-msgstr "仮想ダイナミックインターフェース"
 
 msgid "WDS"
 msgstr "WDS"
@@ -3887,17 +3666,18 @@ msgstr ""
 "hostapd (アクセスポイント及びアドホック) がインストールされている必要がありま"
 "す。"
 
+msgid ""
+"Wait for NTP sync that many seconds, seting to 0 disables waiting (optional)"
+msgstr ""
+
 msgid "Waiting for changes to be applied..."
 msgstr "変更を適用中です..."
 
 msgid "Waiting for command to complete..."
 msgstr "コマンド実行中です..."
 
-msgid "Waiting for configuration to be applied… %ds"
-msgstr "設定を適用中です... %d 秒"
-
 msgid "Waiting for device..."
-msgstr "デバイスを起動中です..."
+msgstr "デバイスの起動を待っています..."
 
 msgid "Warning"
 msgstr "警告"
@@ -3905,14 +3685,11 @@ msgstr "警告"
 msgid "Warning: There are unsaved changes that will get lost on reboot!"
 msgstr "警告: 再起動すると消えてしまう、保存されていない設定があります！"
 
-msgid ""
-"When using a PSK, the PMK can be automatically generated. When enabled, the "
-"R0/R1 key options below are not applied. Disable this to use the R0 and R1 "
-"key options."
+msgid "Whether to create an IPv6 default route over the tunnel"
 msgstr ""
-"PSK を使用する場合、 PMK は自動的に生成されることができます。このオプションが"
-"有効な場合、以下の R0/R1 キー オプションは適用されません。 R0 と R1 キーのオ"
-"プションを使用するには、これを無効化してください。"
+
+msgid "Whether to route only packets from delegated prefixes"
+msgstr ""
 
 msgid "Width"
 msgstr "帯域幅"
@@ -3935,11 +3712,8 @@ msgstr "無線LANデバイス一覧"
 msgid "Wireless Security"
 msgstr "無線LANセキュリティ"
 
-msgid "Wireless is disabled"
-msgstr "無線LAN機能は無効になっています"
-
-msgid "Wireless is not associated"
-msgstr "無線LAN機能がアソシエーションされていません"
+msgid "Wireless is disabled or not associated"
+msgstr "無線LAN機能が無効になっているか、アソシエーションされていません"
 
 msgid "Wireless is restarting..."
 msgstr "無線LAN機能再起動中..."
@@ -3950,14 +3724,17 @@ msgstr "無線LAN機能は無効になっています"
 msgid "Wireless network is enabled"
 msgstr "無線LAN機能は有効になっています"
 
+msgid "Wireless restarted"
+msgstr "無線LAN機能の再起動"
+
+msgid "Wireless shut down"
+msgstr "無線LAN機能停止"
+
 msgid "Write received DNS requests to syslog"
 msgstr "受信したDNSリクエストをsyslogへ記録します"
 
 msgid "Write system log to file"
 msgstr "システムログをファイルに書き込む"
-
-msgid "Yes"
-msgstr "はい"
 
 msgid ""
 "You can enable or disable installed init scripts here. Changes will applied "
@@ -3965,8 +3742,8 @@ msgid ""
 "scripts like \"network\", your device might become inaccessible!</strong>"
 msgstr ""
 "ルーターが起動する際のサービスの有効化/無効化を行うことができます。また、変更"
-"は再起動後に適用されます。<br /><strong>警告: \"network\" のような重要なサー"
-"ビスを無効にするとルーターにアクセスできなくなりますので、注意してください。"
+"は再起動後に適用されます。<br /><strong>警告: \"network\"のような重要なサービ"
+"スを無効にすると, ルーターにアクセスできなくなりますので、注意してください。"
 "</strong>"
 
 msgid ""
@@ -3993,9 +3770,6 @@ msgstr "baseT"
 
 msgid "bridged"
 msgstr "ブリッジ"
-
-msgid "create"
-msgstr "作成"
 
 msgid "create:"
 msgstr "作成:"
@@ -4026,7 +3800,7 @@ msgstr ""
 "録するファイル"
 
 msgid "forward"
-msgstr "転送"
+msgstr ""
 
 msgid "full-duplex"
 msgstr "全二重"
@@ -4034,8 +3808,11 @@ msgstr "全二重"
 msgid "half-duplex"
 msgstr "半二重"
 
+msgid "help"
+msgstr "ヘルプ"
+
 msgid "hidden"
-msgstr "（ステルス）"
+msgstr "(不明)"
 
 msgid "hybrid mode"
 msgstr "ハイブリッド モード"
@@ -4058,11 +3835,11 @@ msgstr "kbit/s"
 msgid "local <abbr title=\"Domain Name System\">DNS</abbr> file"
 msgstr "ローカル <abbr title=\"Domain Name System\">DNS</abbr>ファイル"
 
-msgid "minutes"
-msgstr "分"
+msgid "minimum 1280, maximum 1480"
+msgstr "最小値 1280、最大値 1480"
 
-msgid "mixed WPA/WPA2"
-msgstr "mixed WPA/WPA2"
+msgid "minutes"
+msgstr ""
 
 msgid "no"
 msgstr "いいえ"
@@ -4074,7 +3851,7 @@ msgid "none"
 msgstr "なし"
 
 msgid "not present"
-msgstr "存在しません"
+msgstr ""
 
 msgid "off"
 msgstr "オフ"
@@ -4085,14 +3862,8 @@ msgstr "オン"
 msgid "open"
 msgstr "オープン"
 
-msgid "output"
-msgstr "出力"
-
 msgid "overlay"
 msgstr "オーバーレイ"
-
-msgid "random"
-msgstr "ランダム"
 
 msgid "relay mode"
 msgstr "リレー モード"
@@ -4122,7 +3893,7 @@ msgid "unknown"
 msgstr "不明"
 
 msgid "unlimited"
-msgstr "無制限"
+msgstr "無期限"
 
 msgid "unspecified"
 msgstr "設定しない"
@@ -4139,48 +3910,77 @@ msgstr "はい"
 msgid "« Back"
 msgstr "« 戻る"
 
-#~ msgid "Activate this network"
-#~ msgstr "このネットワークを有効にする"
+#~ msgid "Leasetime"
+#~ msgstr "リース時間"
 
-#~ msgid "Hermes 802.11b Wireless Controller"
-#~ msgstr "Hermes 802.11b 無線LANコントローラ"
+#~ msgid "Optional."
+#~ msgstr "（オプション）"
 
-#~ msgid "Interface reconnected"
-#~ msgstr "インターフェースの再接続"
+#~ msgid "automatic"
+#~ msgstr "自動"
 
-#~ msgid "Interface shut down"
-#~ msgstr "インターフェースの終了"
+#~ msgid "AR Support"
+#~ msgstr "ARサポート"
 
-#~ msgid "Prism2/2.5/3 802.11b Wireless Controller"
-#~ msgstr "Prism2/2.5/3 802.11b 無線LANコントローラ"
+#~ msgid "Atheros 802.11%s Wireless Controller"
+#~ msgstr "Atheros 802.11%s 無線LANコントローラ"
 
-#~ msgid "RaLink 802.11%s Wireless Controller"
-#~ msgstr "RaLink 802.11%s 無線LANコントローラ"
+#~ msgid "Background Scan"
+#~ msgstr "バックグラウンドスキャン"
 
-#~ msgid ""
-#~ "Really shut down network? You might lose access to this device if you are "
-#~ "connected via this interface"
-#~ msgstr ""
-#~ "本当にネットワークを停止しますか？\n"
-#~ "このネットワークを経由して接続している場合、デバイスにアクセスできなくなる"
-#~ "場合があります"
+#~ msgid "Compression"
+#~ msgstr "圧縮"
 
-#~ msgid ""
-#~ "Really shutdown interface \"%s\"? You might lose access to this device if "
-#~ "you are connected via this interface."
-#~ msgstr ""
-#~ "本当にインターフェース \"%s\" を停止しますか?\n"
-#~ "このインターフェースを経由して接続している場合、デバイスにアクセスできなく"
-#~ "なる場合があります。"
+#~ msgid "Disable HW-Beacon timer"
+#~ msgstr "HWビーコンタイマーを無効にする"
 
-#~ msgid "Reconnecting interface"
-#~ msgstr "インターフェース再接続中"
+#~ msgid "Do not send probe responses"
+#~ msgstr "プローブレスポンスを送信しない"
 
-#~ msgid "Shutdown this network"
-#~ msgstr "ネットワークを終了"
+#~ msgid "Fast Frames"
+#~ msgstr "ファスト・フレーム"
 
-#~ msgid "Wireless restarted"
-#~ msgstr "無線LAN機能の再起動"
+#~ msgid "Maximum Rate"
+#~ msgstr "最大レート"
 
-#~ msgid "Wireless shut down"
-#~ msgstr "無線LAN機能停止"
+#~ msgid "Minimum Rate"
+#~ msgstr "最小レート"
+
+#~ msgid "Multicast Rate"
+#~ msgstr "マルチキャストレート"
+
+#~ msgid "Outdoor Channels"
+#~ msgstr "屋外用周波数"
+
+#~ msgid "Regulatory Domain"
+#~ msgstr "規制ドメイン"
+
+#~ msgid "Separate WDS"
+#~ msgstr "WDSを分離する"
+
+#~ msgid "Static WDS"
+#~ msgstr "静的WDS"
+
+#~ msgid "Turbo Mode"
+#~ msgstr "ターボモード"
+
+#~ msgid "XR Support"
+#~ msgstr "XRサポート"
+
+#~ msgid "Required. Public key of peer."
+#~ msgstr "ピアの公開鍵（必須）"
+
+#~ msgid "An additional network will be created if you leave this unchecked."
+#~ msgstr "チェックボックスがオフの場合、追加のネットワークが作成されます。"
+
+#~ msgid "Join Network: Settings"
+#~ msgstr "ネットワークに接続する: 設定"
+
+#~ msgid "CPU"
+#~ msgstr "CPU"
+
+#~ msgid "Port %d"
+#~ msgstr "ポート %d"
+
+#~ msgid "VLAN Interface"
+#~ msgstr "VLANインターフェース"
