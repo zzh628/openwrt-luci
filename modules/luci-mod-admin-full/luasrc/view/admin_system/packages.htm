@@ -82,7 +82,6 @@ end
 					<% else %>
 						<%:No package lists available%>
 					<% end %>
-					<input type="submit" name="update" href="#" class="cbi-button cbi-button-apply" style="margin-left:3em" value="<%:Update lists%>" />
 				</div>
 				<% end %>
 
@@ -98,6 +97,13 @@ end
 
 			<div class="cbi-section-node">
 				<input type="hidden" name="display" value="<%=pcdata(display)%>" />
+				
+				<div class="cbi-value">
+					<label class="cbi-value-title"><%:Update lists%></label>
+					<div class="cbi-value-field">
+						<input type="submit" name="update" href="#" class="cbi-button cbi-button-apply" value="<%:Update lists%>" />
+					</div>
+				</div>
 
 				<div class="cbi-value">
 					<label class="cbi-value-title"><%:Download and install package%>:</label>
