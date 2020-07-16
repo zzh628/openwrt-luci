@@ -72,9 +72,7 @@ function s.parse(self, ...)
 	end
 end
 
-function s.sectiontitle(self, sid)
-	return (self.map:get(sid, "name") or translate("Unnamed rule"))
-end
+ft.opt_name(s, DummyValue, translate("Name"))
 
 local function rule_proto_txt(self, s)
 	local f = self.map:get(s, "family")

@@ -63,9 +63,7 @@ function s.filter(self, sid)
 	return (self.map:get(sid, "target") ~= "SNAT")
 end
 
-function s.sectiontitle(self, sid)
-	return (self.map:get(sid, "name") or translate("Unnamed forward"))
-end
+ft.opt_name(s, DummyValue, translate("Name"))
 
 
 local function forward_proto_txt(self, s)
